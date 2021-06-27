@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-23d6ad4cb4ae80a15494.js"
+    "url": "webpack-runtime-a27e49c05f3b384b71da.js"
   },
   {
-    "url": "styles.abd21b8439056d1332a5.css"
+    "url": "styles.d198e1e1fe2f19d1c517.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "fa2145d8919e0135ee634d33ba4668ea"
+    "revision": "af9130cfe3d40724705d001332f52a41"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "316b83bd221af26f2614c905811f174c"
+    "revision": "8064fc4c7ffdf5e138721b876841a51b"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,7 +86,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "355c56aaa139e768a06d5d0b568de002"
+    "revision": "3a952218e86b33df38d1009764870c3e"
   },
   {
     "url": "page-data/quizzes/page-data.json",
