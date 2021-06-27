@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a27e49c05f3b384b71da.js"
+    "url": "webpack-runtime-d81d943d5f65087bc8d4.js"
   },
   {
     "url": "styles.d198e1e1fe2f19d1c517.css"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "af9130cfe3d40724705d001332f52a41"
+    "revision": "cf58160cc7688be76a6dd3fc1ccc49fa"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "8064fc4c7ffdf5e138721b876841a51b"
+    "revision": "bf1ee373f3c28bf800afaaa0a420de69"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,7 +86,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "3a952218e86b33df38d1009764870c3e"
+    "revision": "ea29cc5330e31e72cf00dec81ddedf76"
   },
   {
     "url": "page-data/quizzes/page-data.json",
