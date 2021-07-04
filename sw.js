@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-829baf538e72df7fdf96.js"
+    "url": "webpack-runtime-dc5cd5f905de3cf4308b.js"
   },
   {
-    "url": "styles.c24faed977c4c54d4aa1.css"
+    "url": "styles.da7c8144bdb79b322c86.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
@@ -40,13 +40,13 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f2be821ca03735dccbd3a13fb9e0e7a5"
+    "revision": "658fe571788d142bb3ef5fbe1f15cec2"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
   },
   {
-    "url": "polyfill-435c9f893145a9810113.js"
+    "url": "polyfill-3d8718a4c172cbc7aa33.js"
   },
   {
     "url": "0d88ad7a-574828617fa2dc31fe16.js"
@@ -64,17 +64,17 @@ self.__precacheManifest = [
     "url": "01c38ade31fe3dfc5b112db7e00e7c11942b03d1-7ff94a61c4b8feb2b7c3.js"
   },
   {
-    "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-5d982a50659ae98de5a3.js"
+    "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-de6a329b8f0e84037eb5.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-b0a81af64a193ad02c7d.js"
   },
   {
-    "url": "component---src-layout-blog-post-list-index-tsx-b12b0f631831accab34a.js"
+    "url": "component---src-layout-blog-post-list-index-tsx-78b2519d573d2726fe7d.js"
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "46dfce4fc23e227ca8c9dda6019b755b"
+    "revision": "06d5395df6104018bee653c375971218"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,11 +86,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "9ef0a6af5e52e6ece41801cae6287253"
+    "revision": "466feb4f1d617351bf8bee31a883cc9c"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "595f39a5d42eec8746ddf0b24a6eab91"
+    "revision": "dc047eb032f0358200ff8854434a3820"
   },
   {
     "url": "manifest.webmanifest",
