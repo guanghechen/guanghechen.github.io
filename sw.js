@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-dc5cd5f905de3cf4308b.js"
+    "url": "webpack-runtime-b6eaf1a6490b63e22508.js"
   },
   {
-    "url": "styles.da7c8144bdb79b322c86.css"
+    "url": "styles.d8898202ea5262b59dfb.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "658fe571788d142bb3ef5fbe1f15cec2"
+    "revision": "0af8ed8a8da7eb1243fb917ec0ff55ac"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -67,14 +67,14 @@ self.__precacheManifest = [
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-b0a81af64a193ad02c7d.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-b03fc537c6fd6b31ad95.js"
   },
   {
     "url": "component---src-layout-blog-post-list-index-tsx-78b2519d573d2726fe7d.js"
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "06d5395df6104018bee653c375971218"
+    "revision": "b187bcbfdec7456addab8a9a7f535f88"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,7 +86,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "466feb4f1d617351bf8bee31a883cc9c"
+    "revision": "e3ea677a575162e182b22d6bd260b156"
   },
   {
     "url": "page-data/quizzes/page-data.json",
