@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ddd32280419c6e34849d.js"
+    "url": "webpack-runtime-8b14a5bcd4d00a90e335.js"
   },
   {
     "url": "styles.03219ae4fc6d03671e7f.css"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7e72b7e1943f41bae575fc34f6744ce1"
+    "revision": "08e900ae3c72e36a9094b46b1705b823"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -67,14 +67,14 @@ self.__precacheManifest = [
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-71a74ac3b75a506c3bef.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-e8f9735ba9ec8e1c2455.js"
   },
   {
     "url": "component---src-layout-blog-post-list-index-tsx-72337c3cf57e03d1208d.js"
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "106c5d43e8db2adff73a38928d15dacc"
+    "revision": "f4e047994968032c0cd4897a128e567f"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,7 +86,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "2e420242252d4a890616d6039862469d"
+    "revision": "4ce0a8a36a83f74745e614e6c0cf5e4f"
   },
   {
     "url": "page-data/quizzes/page-data.json",
