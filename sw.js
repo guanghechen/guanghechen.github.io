@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-8ba87f10aa4cf8162bbf.js"
+    "url": "webpack-runtime-ddd32280419c6e34849d.js"
   },
   {
-    "url": "styles.d8898202ea5262b59dfb.css"
+    "url": "styles.03219ae4fc6d03671e7f.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "266d08f4888ea60dab7ecf8623884cd8"
+    "revision": "7e72b7e1943f41bae575fc34f6744ce1"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -49,7 +49,7 @@ self.__precacheManifest = [
     "url": "polyfill-3d8718a4c172cbc7aa33.js"
   },
   {
-    "url": "0d88ad7a-574828617fa2dc31fe16.js"
+    "url": "0d88ad7a-5e96cf37e291af50e1c2.js"
   },
   {
     "url": "a57ecc71-9250056d633bab27f57a.js"
@@ -61,20 +61,20 @@ self.__precacheManifest = [
     "url": "72fca025a43519f974bc4f2765b01e0e1e0a9558-b232c98143c5ae4a6359.js"
   },
   {
-    "url": "01c38ade31fe3dfc5b112db7e00e7c11942b03d1-c48e6c1d0a0f167ca5c6.js"
+    "url": "01c38ade31fe3dfc5b112db7e00e7c11942b03d1-53b6e7af37064eddaef3.js"
   },
   {
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-850524be075673c9be03.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-71a74ac3b75a506c3bef.js"
   },
   {
-    "url": "component---src-layout-blog-post-list-index-tsx-adf041a9451d821f6f1c.js"
+    "url": "component---src-layout-blog-post-list-index-tsx-72337c3cf57e03d1208d.js"
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "0f74a58f81db7f464d2da7ce5e020ee6"
+    "revision": "106c5d43e8db2adff73a38928d15dacc"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,11 +86,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "feda7e4e05718568cecf53a12a4aa1ed"
+    "revision": "2e420242252d4a890616d6039862469d"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "dc047eb032f0358200ff8854434a3820"
+    "revision": "595f39a5d42eec8746ddf0b24a6eab91"
   },
   {
     "url": "manifest.webmanifest",
