@@ -27,20 +27,20 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5af8fd0c239cc49ab2e2.js"
+    "url": "webpack-runtime-f210f3ec8fbfc2114f56.js"
   },
   {
-    "url": "styles.056dfde9fee261edd56a.css"
+    "url": "styles.d5ef3189af3d7ff2d375.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
   },
   {
-    "url": "app-195d0cfa6911b96db78e.js"
+    "url": "app-b3b508761bf7feaacb7c.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "c2056a061eb6bc0b33e41589f03f0869"
+    "revision": "e02c54d0b66607ac03aa513cab4e95a0"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -61,16 +61,16 @@ self.__precacheManifest = [
     "url": "72fca025a43519f974bc4f2765b01e0e1e0a9558-b232c98143c5ae4a6359.js"
   },
   {
-    "url": "01c38ade31fe3dfc5b112db7e00e7c11942b03d1-53b6e7af37064eddaef3.js"
+    "url": "01c38ade31fe3dfc5b112db7e00e7c11942b03d1-8b41b1224d51c8614acf.js"
   },
   {
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-81768653e9c5b1c376bf.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-154f54042c42d0d31f30.js"
   },
   {
-    "url": "component---src-layout-blog-post-list-index-tsx-72337c3cf57e03d1208d.js"
+    "url": "component---src-layout-blog-post-list-index-tsx-02bd740f38f5e30091d9.js"
   },
   {
     "url": "page-data/posts/page-data.json",
@@ -86,11 +86,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "68689339fe4914ec6af379e7bdc314ce"
+    "revision": "c2012b3306d8d336e5668b206dac5989"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "dc047eb032f0358200ff8854434a3820"
+    "revision": "595f39a5d42eec8746ddf0b24a6eab91"
   },
   {
     "url": "manifest.webmanifest",
@@ -186,7 +186,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-195d0cfa6911b96db78e.js`))) {
+  if (!resources || !(await caches.match(`/app-b3b508761bf7feaacb7c.js`))) {
     return await fetch(event.request)
   }
 
