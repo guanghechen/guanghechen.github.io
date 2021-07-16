@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-8b14a5bcd4d00a90e335.js"
+    "url": "webpack-runtime-5af8fd0c239cc49ab2e2.js"
   },
   {
-    "url": "styles.03219ae4fc6d03671e7f.css"
+    "url": "styles.056dfde9fee261edd56a.css"
   },
   {
     "url": "framework-889b59788ae90fa7cec6.js"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "08e900ae3c72e36a9094b46b1705b823"
+    "revision": "c2056a061eb6bc0b33e41589f03f0869"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -67,7 +67,7 @@ self.__precacheManifest = [
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-e8f9735ba9ec8e1c2455.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-81768653e9c5b1c376bf.js"
   },
   {
     "url": "component---src-layout-blog-post-list-index-tsx-72337c3cf57e03d1208d.js"
@@ -86,11 +86,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "4ce0a8a36a83f74745e614e6c0cf5e4f"
+    "revision": "68689339fe4914ec6af379e7bdc314ce"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "595f39a5d42eec8746ddf0b24a6eab91"
+    "revision": "dc047eb032f0358200ff8854434a3820"
   },
   {
     "url": "manifest.webmanifest",
