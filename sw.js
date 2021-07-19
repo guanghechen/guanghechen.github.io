@@ -97,11 +97,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/essay/tada/page-data.json",
-    "revision": "a68f28ab97dd6bc8124f7fec4efb87cc"
+    "revision": "f49ad0976cd83ac7c5771fb66b1f1cdf"
   },
   {
     "url": "page-data/essays/page-data.json",
-    "revision": "c2e336471bd9ccf66872c9de56b0b4f4"
+    "revision": "2aea393fff39a7fea582beb4b18a367d"
   },
   {
     "url": "manifest.webmanifest",
