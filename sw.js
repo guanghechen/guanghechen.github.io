@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5564f94e57e748bcad02.js"
+    "url": "webpack-runtime-99cbbc45c71b9d297670.js"
   },
   {
     "url": "styles.b73d3228dde89b89ea0d.css"
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "58a89d9c647542242126a01cb86cb29e"
+    "revision": "e66fc22a12003ffa2f7fdd5c71d79818"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "874d8ac6696e98f94d0447fd768ff561"
+    "revision": "9bdb6366785017bea924d7454d87bef6"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,22 +86,22 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "e20c1ea203ce448940bb3fc1bd20668e"
+    "revision": "2fc83577d4435129d0c244402321fda8"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "8251c1557f35812c17cb18249ae0c6c1"
+    "revision": "e6a8684aae91d7434f8c1f3d2536f0fc"
   },
   {
     "url": "component---src-layout-blog-post-index-tsx-9cf57a971cfb02fabbba.js"
   },
   {
     "url": "page-data/essay/tada/page-data.json",
-    "revision": "f49ad0976cd83ac7c5771fb66b1f1cdf"
+    "revision": "8f733c4f9818f0f3e76051f8e5d8692a"
   },
   {
     "url": "page-data/essays/page-data.json",
-    "revision": "2aea393fff39a7fea582beb4b18a367d"
+    "revision": "7cc410aa70f806c40eb2c3c9983b7a41"
   },
   {
     "url": "manifest.webmanifest",
