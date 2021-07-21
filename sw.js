@@ -74,7 +74,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "9bdb6366785017bea924d7454d87bef6"
+    "revision": "736aefcb94ea27c11b51c590e6cbc7c9"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -90,7 +90,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "e6a8684aae91d7434f8c1f3d2536f0fc"
+    "revision": "e016fb9eddcd8a9332476747ee52e312"
   },
   {
     "url": "component---src-layout-blog-post-index-tsx-9cf57a971cfb02fabbba.js"
