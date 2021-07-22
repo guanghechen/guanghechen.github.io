@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5d482d8ef70079e55c39.js"
+    "url": "webpack-runtime-9ac5e34fecc1a2e907cd.js"
   },
   {
     "url": "styles.5a10ce27ee91ce9075ff.css"
@@ -36,17 +36,17 @@ self.__precacheManifest = [
     "url": "framework-889b59788ae90fa7cec6.js"
   },
   {
-    "url": "app-577a2aa44af2683b6c79.js"
+    "url": "app-ac112893a2d329a7143b.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "e2157e1fde95ce480ad8a0d24c77bab9"
+    "revision": "fc36b8e80921f64b085a7348a1e3cf27"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fe54444d153742a8bc4d.js"
   },
   {
-    "url": "polyfill-3d8718a4c172cbc7aa33.js"
+    "url": "polyfill-3595984307d9947f9ba1.js"
   },
   {
     "url": "0d88ad7a-5e96cf37e291af50e1c2.js"
@@ -67,14 +67,14 @@ self.__precacheManifest = [
     "url": "0526c2708c4ab50db6fc60f1a0cccaafef0808ae-1a6c51a52d5d8a7f8090.js"
   },
   {
-    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-c6739d074212d097e07a.js"
+    "url": "8c3ae79c5418c02c04746f932e95ba31ba9c40cd-258cec0dd74941c081be.js"
   },
   {
-    "url": "component---src-layout-blog-post-list-index-tsx-c6a422d4cd838d91889a.js"
+    "url": "component---src-layout-blog-post-list-index-tsx-bf6627228a45fc541ba3.js"
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "151c6da96e8adcf5320440fb085241fa"
+    "revision": "5120e3ee659c0d8663f607835f5f0667"
   },
   {
     "url": "page-data/sq/d/1005149165.json",
@@ -86,14 +86,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "511cf96236f02e39754b1f0dd3fbb82b"
+    "revision": "34b994df8160fec8fe480b105c96fdb7"
   },
   {
     "url": "page-data/quizzes/page-data.json",
-    "revision": "006344b2dca737d8582ef55ef54f0b16"
+    "revision": "877e713e8ef77679f8f1764fcee1eb70"
   },
   {
-    "url": "component---src-layout-blog-post-index-tsx-9cf57a971cfb02fabbba.js"
+    "url": "component---src-layout-blog-post-index-tsx-9272af6f3fba28226060.js"
   },
   {
     "url": "page-data/essay/tada/page-data.json",
@@ -197,7 +197,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-577a2aa44af2683b6c79.js`))) {
+  if (!resources || !(await caches.match(`/app-ac112893a2d329a7143b.js`))) {
     return await fetch(event.request)
   }
 
