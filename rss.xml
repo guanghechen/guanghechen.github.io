@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Guanghechen's RSS Feed]]></title><description><![CDATA[光和尘的个人站点]]></description><link>https://me.guanghechen.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Jul 2021 07:30:20 GMT</lastBuildDate><item><title><![CDATA[精确覆盖问题和 DLX 算法]]></title><description><![CDATA[<div class="yozora-markdown"><p class="yozora-paragraph"><span class="yozora-text">很早就想要补一下舞蹈链和精确覆盖算法，却一直各种拖延，趁着最近有空，又重新翻开了刘汝佳的书。大学的时候看过几次，甚至照着书里的思路手敲了一遍并通过了例题，但对于算法的原理一直有些不求甚解。很早以前，一位同学告诉我说“现在看不懂的东西不用勉强，以后慢慢就会懂了”，后来也真的在不断印证这句话；但我很担心随着年纪的增长，记忆力和学习能力不断退化之后，恐怕这个 flag 会逐渐倒下。所以趁着眼下尚能理解进去，尽量用自己的语言做一下记录。</span></p></div>]]></description><link>https://me.guanghechen.com/post/algorithm/dlx/</link><guid isPermaLink="false">https://me.guanghechen.com/post/algorithm/dlx/</guid><pubDate>Sat, 24 Jul 2021 04:31:12 GMT</pubDate><content:encoded>&lt;div class=&quot;yozora-markdown&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;很早就想要补一下舞蹈链和精确覆盖算法，却一直各种拖延，趁着最近有空，又重新翻开了刘汝佳的书。大学的时候看过几次，甚至照着书里的思路手敲了一遍并通过了例题，但对于算法的原理一直有些不求甚解。很早以前，一位同学告诉我说“现在看不懂的东西不用勉强，以后慢慢就会懂了”，后来也真的在不断印证这句话；但我很担心随着年纪的增长，记忆力和学习能力不断退化之后，恐怕这个 flag 会逐渐倒下。所以趁着眼下尚能理解进去，尽量用自己的语言做一下记录。&lt;/span&gt;&lt;/p&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;精确覆盖问题&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;有一些由整数 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;1 \sim n&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 中的数字组成的集合 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;S_1, S_2, \cdots, S_m&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，要求选择若干个集合 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;S_i&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，使得 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;1 \sim n&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 中每个整数都在选出的集合中的某个出现且恰好仅出现一次。举个栗子：&lt;/span&gt;&lt;/p&gt;&lt;blockquote class=&quot;yozora-blockquote&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;不妨假设 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;n=7, m=6&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，集合为：&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;yozora-math&quot;&gt;\begin{aligned}
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Guanghechen's RSS Feed]]></title><description><![CDATA[光和尘的个人站点]]></description><link>https://me.guanghechen.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Jul 2021 10:03:08 GMT</lastBuildDate><item><title><![CDATA[精确覆盖问题和 DLX 算法]]></title><description><![CDATA[<div class="yozora-markdown"><p class="yozora-paragraph"><span class="yozora-text">很早就想要补一下舞蹈链和精确覆盖算法，却一直各种拖延，趁着最近有空，又重新翻开了刘汝佳的书。大学的时候看过几次，甚至照着书里的思路手敲了一遍并通过了例题，但对于算法的原理一直有些不求甚解。很早以前，一位同学告诉我说“现在看不懂的东西不用勉强，以后慢慢就会懂了”，后来也真的在不断印证这句话；但我很担心随着年纪的增长，记忆力和学习能力不断退化之后，恐怕这个 flag 会逐渐倒下。所以趁着眼下尚能理解进去，尽量用自己的语言做一下记录。</span></p></div>]]></description><link>https://me.guanghechen.com/post/algorithm/dlx/</link><guid isPermaLink="false">https://me.guanghechen.com/post/algorithm/dlx/</guid><pubDate>Sat, 24 Jul 2021 04:31:12 GMT</pubDate><content:encoded>&lt;div class=&quot;yozora-markdown&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;很早就想要补一下舞蹈链和精确覆盖算法，却一直各种拖延，趁着最近有空，又重新翻开了刘汝佳的书。大学的时候看过几次，甚至照着书里的思路手敲了一遍并通过了例题，但对于算法的原理一直有些不求甚解。很早以前，一位同学告诉我说“现在看不懂的东西不用勉强，以后慢慢就会懂了”，后来也真的在不断印证这句话；但我很担心随着年纪的增长，记忆力和学习能力不断退化之后，恐怕这个 flag 会逐渐倒下。所以趁着眼下尚能理解进去，尽量用自己的语言做一下记录。&lt;/span&gt;&lt;/p&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;精确覆盖问题&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;有一些由整数 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;1 \sim n&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 中的数字组成的集合 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;S_1, S_2, \cdots, S_m&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，要求选择若干个集合 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;S_i&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，使得 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;1 \sim n&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 中每个整数都在选出的集合中的某个出现且恰好仅出现一次。举个栗子：&lt;/span&gt;&lt;/p&gt;&lt;blockquote class=&quot;yozora-blockquote&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;不妨假设 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;n=7, m=6&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;，集合为：&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;yozora-math&quot;&gt;\begin{aligned}
   S_1&amp;amp;=\lbrace 1, 4, 7 \rbrace\\
   S_2&amp;amp;=\lbrace 1, 4 \rbrace\\
   S_3&amp;amp;=\lbrace 4,5,7 \rbrace\\
@@ -18,53 +18,97 @@ for (let j = R[i]; j !== i; j = R[j]) {
   U[D[j]] = j
   D[U[j]] = j
 }
-&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;删除列和恢复列也类似，此处略去。&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;DLX 算法&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;使用了舞蹈链的算法 X 通常被称为 DLX 算法。此处给出 DLX 算法的 Typescript 实现。&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;export interface DLX {
+&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;删除列和恢复列也类似，此处略去。&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;DLX 算法&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;使用了舞蹈链的算法 X 通常被称为 DLX 算法。此处给出 DLX 算法的 Typescript 实现。&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;/**
+ * The algorithm X that applied the dancing-link, it is also called as &quot;DLX&quot;.
+ * It is used to solve the exact-cover problem.
+ *
+ * Dancing-link: A cross doubly linked list, each column has a virtual node as
+ * the head pointer, and at the top of all virtual nodes there is an additional
+ * virtual node as the head pointer of the virtual node, which is also the head
+ * pointer of the entire dancing-link. In the implementation of using an array
+ * to simulate a linked list, the virtual node is represented by a column
+ * number, and the head pointer of the dancing-link can be represented by 0.
+ *
+ * @see https://me.guanghechen.com/post/algorithm/dlx/
+ */
+export interface DLX {
   /**
-   * 初始化
-   * @param totalColumn 列数
+   * Initialize the dancing-link.
+   * @param totalColumns   number of columns
    */
-  init(totalColumn: number): void
+  init(totalColumns: number): void
 
   /**
-   * 添加一行
-   * @param rowNo   行号，用来区分不同的行，之所以需要手动指定，是因为计算完成后
-   *                返回的结果里是一个行号列表，所以其应该要有实际意义
-   * @param columns 此行中覆盖了哪些列
+   * Release memory variables.
+   */
+  destroy(): void
+
+  /**
+   * Add a row to the dancing-link.
+   *
+   * It should be noted that after solving the exact-cover problem, the
+   * result is a list of selected row numbers, so the row number should be
+   * specified as a value that can carry information.
+   *
+   * @param r         the row number
+   * @param columns   columns on the row
    */
   addRow(rowNo: number, columns: ReadonlyArray): void
 
   /**
-   * 进行精确覆盖尝试，若成功，返回精确覆盖中所选择的行号列表；否则返回 null
+   * Try to find a precise coverage.
+   *
+   * When a solution is found, return the row numbers of all selected rows,
+   * otherwise return null.
    */
   solve(): number[] | null
 }
 
 /**
- * 在使用数组模拟链表的实现中，虚拟节点用列号表示就行了。而舞蹈链的头指针有 0 表
- * 示即可。
+ * Generate an object that encapsulates the DLX algorithm.
  *
- * @param MAX_N   最大结点数
+ * @param MAX_N   maximum number of nodes in the dancing-link
  * @returns
  */
 export function createDLX(MAX_N: number): DLX {
-  let sz: number // 节点总数
-  let totalColumn: number // 列数
+  // The number of nodes in the dancing-link (including the virtual nodes on
+  // the column).
+  let sz: number
 
-  const selectedRows: number[] = new Array(MAX_N) // 已选择的行号列表
-  let selectedRowsTot: number // selectedRows 列表钟最后一个有效元素的下标 + 1
+  // the number of columns in the dancing-link.
+  let totalColumns: number
 
-  const count: number[] = new Array(MAX_N) // 各列节点数
-  const row: number[] = new Array(MAX_N) // 各节点的行编号
-  const col: number[] = new Array(MAX_N) // 各节点的列编号
-  const L: number[] = new Array(MAX_N) // 十字链表的左侧指针
-  const R: number[] = new Array(MAX_N) // 十字链表的右侧指针
-  const U: number[] = new Array(MAX_N) // 十字链表的上侧指针
-  const D: number[] = new Array(MAX_N) // 十字链表的下侧指针
+  const selectedRowNos: number[] = new Array(MAX_N) // list of row numbers of selected rows
+  let countOfSelectedRows: number // the number of selected rows
 
-  // 初始化操作
-  function init(n: number): void {
-    totalColumn = n
-    sz = n + 1
+  const count: number[] = new Array(MAX_N) // lhe number of nodes of a column in the dancing-link
+  const row: number[] = new Array(MAX_N) // the row number of a node in the dancing-link
+  const col: number[] = new Array(MAX_N) // the column number of a node in the dancing-link
+  const L: number[] = new Array(MAX_N) // left pointer of cross-link list
+  const R: number[] = new Array(MAX_N) // right pointer of cross-link list
+  const U: number[] = new Array(MAX_N) // up pointer of cross-link list
+  const D: number[] = new Array(MAX_N) // down pointer of cross-link list
+  return { init, destroy, addRow, solve }
+
+  /**
+   * @see DLX#init
+   * @public
+   */
+  function init(_totalColumns: number): void {
+    totalColumns = _totalColumns
+    sz = _totalColumns + 1
+
+    // Resize arrays.
+    if (selectedRowNos.length &amp;lt; sz) {
+      selectedRowNos.length = sz
+      count.length = sz
+      row.length = sz
+      col.length = sz
+      L.length = sz
+      R.length = sz
+      U.length = sz
+      D.length = sz
+    }
 
     for (let i = 0; i &amp;lt; sz; ++i) {
       L[i] = i - 1
@@ -72,13 +116,31 @@ export function createDLX(MAX_N: number): DLX {
       U[i] = i
       D[i] = i
     }
-    R[n] = 0
-    L[0] = n
+    R[_totalColumns] = 0
+    L[0] = _totalColumns
 
     count.fill(0, 0, sz)
   }
 
-  // 添加行
+  /**
+   * @see DLX#destroy
+   * @public
+   */
+  function destroy(): void {
+    selectedRowNos.length = 0
+    count.length = 0
+    row.length = 0
+    col.length = 0
+    L.length = 0
+    R.length = 0
+    U.length = 0
+    D.length = 0
+  }
+
+  /**
+   * @see DLX#addRow
+   * @public
+   */
   function addRow(r: number, columns: ReadonlyArray): void {
     const first = sz
     for (let i = 0; i &amp;lt; columns.length; ++i, ++sz) {
@@ -87,33 +149,40 @@ export function createDLX(MAX_N: number): DLX {
       col[sz] = c
       count[c] += 1
 
-      // 连接左右元素
+      // Connect left and right nodes
       L[sz] = sz - 1
       R[sz] = sz + 1
 
-      /**
-       * 连接上下元素
-       * 其中 c 为第 c 列上的虚拟节点，也为该列链表的头指针，
-       * 所以此时 U[c] 为该列的最后一个元素
-       */
+      // Connect top and bottom nodes,
+      // c is the virtual node on the c-th column, and is also the head pointer
+      // of the linked list of the column, so at this time U[c] is the last
+      // element of the column
       D[sz] = c
       D[U[c]] = sz
       U[sz] = U[c]
       U[c] = sz
     }
 
-    // 因为是循环链表，所以当前行的第一列和最后一列互相连接
+    // Since this is a circular linked list, the first and last columns of the
+    // current row are connected to each other.
     R[sz - 1] = first
     L[first] = sz - 1
   }
 
-  // 处理精确覆盖
+  /**
+   * @see DLX#solve
+   * @public
+   */
   function solve(): number[] | null {
-    if (!dfs(0)) return null
-    return selectedRows.slice(0, selectedRowsTot)
+    if (!algorithmX(0)) return null
+    return selectedRowNos.slice(0, countOfSelectedRows)
   }
 
-  // 移除某列
+  /**
+   * Remove a column from the dancing-link.
+   * @param c   column number
+   * @private
+   */
   function removeColumn(c: number): void {
     L[R[c]] = L[c]
     R[L[c]] = R[c]
@@ -126,7 +195,11 @@ export function createDLX(MAX_N: number): DLX {
     }
   }
 
-  // 恢复某列
+  /**
+   * Restore a previously deleted column
+   * @param c   column number
+   * @private
+   */
   function restoreColumn(c: number): void {
     for (let i = U[c]; i !== c; i = U[i]) {
       for (let j = L[i]; j !== i; j = L[j]) {
@@ -140,35 +213,50 @@ export function createDLX(MAX_N: number): DLX {
   }
 
   /**
-   * 回溯搜索，算法 X
-   * @param dep 递归深度
+   * Algorithm X.
+   *
+   * Recursively solve the problem of precise coverage, enumerate which rows are
+   * selected in the recursive process, remove the selected rows and all the
+   * columns on the rows, and restore these rows and columns during the
+   * backtrack.
+   *
+   * @param dep   recursion depth
+   * @private
    */
-  function dfs(dep: number): boolean {
-    // 舞蹈链为空，则找到解
+  function algorithmX(dep: number): boolean {
+    // Find a solution when the dancing-link is empty.
     if (R[0] === 0) {
-      selectedRowsTot = dep // 记录解的长度
+      // Record the length of the solution.
+      countOfSelectedRows = dep
       return true
     }
 
-    // 优化：找 count 最少的列，并从该列开始尝试覆盖
+    /**
+     * Optimization: Find the column with the least number of nodes, and try to
+     * cover from this column.
+     */
     let c = R[0]
     for (let i = R[0]; i !== 0; i = R[i]) {
       if (count[i] &amp;lt; count[c]) c = i
     }
 
-    removeColumn(c) // 删除该列
+    // Remove this column.
+    removeColumn(c)
     for (let i = D[c]; i !== c; i = D[i]) {
-      selectedRows[dep] = row[i]
+      selectedRowNos[dep] = row[i]
       for (let j = R[i]; j !== i; j = R[j]) removeColumn(col[j])
-      if (dfs(dep + 1)) return true
+
+      // Recursively processing.
+      if (algorithmX(dep + 1)) return true
+
+      // Backtrack.
       for (let j = L[i]; j !== i; j = L[j]) restoreColumn(col[j])
     }
+    // Backtrack.
     restoreColumn(c)
 
     return false
   }
-
-  return { init, addRow, solve }
 }
 &lt;/pre&gt;&lt;/code&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;求解数独问题&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;数独是精确覆盖问题的一个特例。为了套用 DLX 算法框架，首先需要弄清楚如何构建 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;01&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;
 矩阵。一般来说，可以将列对应成约束，而将行对应到策略，即选择某个策略时能够满足哪些约束。比如考虑经典 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;x^2 \times x^2&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 数独游戏，其有如下类型的约束：&lt;/span&gt;&lt;/p&gt;&lt;ul class=&quot;yozora-list&quot;&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;Slot(a,b)&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 行第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 列格子要有数字；&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;Row(a,b)&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 行要有数字 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;；&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;Col(a,b)&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 列要有数字 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;；&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;Sub(a,b)&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 个子方阵中要有方阵 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;；&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;一共有 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;x^2 \times x^2 \times 4&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 中约束。再考虑可选择的策略，即在第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 行第 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;
@@ -243,17 +331,10 @@ export function createSudokuSolver(SUDOKU_SIZE_SQRT: number): SudokuSolver {
  * Sudoku constraints.
  */
 export enum SudokuConstraint {
-  // Slot(a, b) 表示第 a 列和第 b 列的格子上要有字母
-  SLOT = 0,
-
-  // Row(a, b) 表示第 a 行要有字母 b
-  ROW = 1,
-
-  // Col(a, b) 表示第 a 列要有字母 b
-  COL = 2,
-
-  // Sub(a, b) 表示第 a 个子方阵要有字母 b
-  SUB = 3,
+  SLOT = 0, // Slot(a, b) 表示第 a 行 b 列个格子上要有数字
+  ROW = 1, // Row(a, b) 表示第 a 行要有数字 b
+  COL = 2, // Col(a, b) 表示第 a 列要有数字 b
+  SUB = 3, // Sub(a, b) 表示第 a 个子方阵要有数字 b
 }
 
 export interface SudokuSolver {
