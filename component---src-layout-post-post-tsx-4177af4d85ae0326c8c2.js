@@ -1,2 +1,0 @@
-(self.webpackChunk_guanghechen_blog=self.webpackChunk_guanghechen_blog||[]).push([[920],{84021:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return a},query:function(){return u}});var o=t(64706),r=t(67294);function a(e){var n=e.pageContext,t=n.paginationUrl,a=n.homeUrl,u=e.data,c=u.previous,i=u.next,s=u.content,g=u.postItems;return r.createElement(o.PostPage,{paginationUrl:t,homeUrl:a,postItems:g,content:s,previous:c,next:i})}var u=void 0}}]);
-//# sourceMappingURL=component---src-layout-post-post-tsx-4177af4d85ae0326c8c2.js.map
