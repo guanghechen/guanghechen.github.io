@@ -35,7 +35,7 @@ struct node {
 
 queue<node> Q;
 
-int BFS() {
+int bfs() {
   while (!Q.empty()) Q.pop();
   Q.push(node(sx, sy, sd));
   vis[sx][sy][sd] = true;
@@ -86,7 +86,7 @@ void work() {
       blank[mu][mv] = false;
     }
 
-    printf("Case %d: %d\n", ++T_T, BFS());
+    printf("Case %d: %d\n", ++T_T, bfs());
   }
 }
 
