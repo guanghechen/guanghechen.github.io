@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[光和尘's RSS Feed]]></title><description><![CDATA[光和尘的个人站点]]></description><link>https://me.guanghechen.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 09:13:23 GMT</lastBuildDate><item><title><![CDATA[Javascript 踩坑记——继承和原型链]]></title><description><![CDATA[<div class="yozora-markdown"><h2 className="yozora-heading"><p className="yozora-heading__content"><span class="yozora-text">前言</span></p></h2><p class="yozora-paragraph"><span class="yozora-text">和其它面向对象的语言不同——继承只存在于两个不同的类之间——，Javascript 没有真正的类的概念。它采用一种原型链的机制，通过原型对象的连接关系来表达继承：通过某个属性（</span><code class="yozora-inline-code">__proto__</code><span class="yozora-text">）将原型对象连接成树形结构，则所谓的继承即为该树中节点与其祖先节点的血缘关系。在访问某个对象的属性时，会顺着原型对象树往上寻找目标属性，并返回第一个含有此属性的节点的对应属性值。这种继承策略带来的副产品是，可以轻易地通过修改原型对象上的属性使得所有继承它的对象都拥有此新增属性</span></p></div>]]></description><link>https://me.guanghechen.com/post/web/javascript/inherit/</link><guid isPermaLink="false">https://me.guanghechen.com/post/web/javascript/inherit/</guid><pubDate>Sun, 05 Sep 2021 01:06:41 GMT</pubDate><content:encoded>&lt;div class=&quot;yozora-markdown&quot;&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;前言&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;和其它面向对象的语言不同——继承只存在于两个不同的类之间——，Javascript 没有真正的类的概念。它采用一种原型链的机制，通过原型对象的连接关系来表达继承：通过某个属性（&lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt;）将原型对象连接成树形结构，则所谓的继承即为该树中节点与其祖先节点的血缘关系。在访问某个对象的属性时，会顺着原型对象树往上寻找目标属性，并返回第一个含有此属性的节点的对应属性值。这种继承策略带来的副产品是，可以轻易地通过修改原型对象上的属性使得所有继承它的对象都拥有此新增属性&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;yozora-admonition yozora-admonition--warning&quot;&gt;&lt;div class=&quot;yozora-admonition__heading&quot;&gt;&lt;h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;div class=&quot;yozora-admonition__body&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 虽然被纳入了 ECMA 标准中，但目前它是不被推荐使用的，请使用
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[光和尘's RSS Feed]]></title><description><![CDATA[光和尘的个人站点]]></description><link>https://me.guanghechen.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Sep 2021 14:27:05 GMT</lastBuildDate><item><title><![CDATA[Javascript 踩坑记——继承和原型链]]></title><description><![CDATA[<div class="yozora-markdown"><h2 className="yozora-heading"><p className="yozora-heading__content"><span class="yozora-text">前言</span></p></h2><p class="yozora-paragraph"><span class="yozora-text">和其它面向对象的语言不同——继承只存在于两个不同的类之间——，Javascript 没有真正的类的概念。它采用一种原型链的机制，通过原型对象的连接关系来表达继承：通过某个属性（</span><code class="yozora-inline-code">__proto__</code><span class="yozora-text">）将原型对象连接成树形结构，则所谓的继承即为该树中节点与其祖先节点的血缘关系。在访问某个对象的属性时，会顺着原型对象树往上寻找目标属性，并返回第一个含有此属性的节点的对应属性值。这种继承策略带来的副产品是，可以轻易地通过修改原型对象上的属性使得所有继承它的对象都拥有此新增属性</span></p></div>]]></description><link>https://me.guanghechen.com/post/web/javascript/inherit/</link><guid isPermaLink="false">https://me.guanghechen.com/post/web/javascript/inherit/</guid><pubDate>Sun, 05 Sep 2021 01:06:41 GMT</pubDate><content:encoded>&lt;div class=&quot;yozora-markdown&quot;&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;前言&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;和其它面向对象的语言不同——继承只存在于两个不同的类之间——，Javascript 没有真正的类的概念。它采用一种原型链的机制，通过原型对象的连接关系来表达继承：通过某个属性（&lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt;）将原型对象连接成树形结构，则所谓的继承即为该树中节点与其祖先节点的血缘关系。在访问某个对象的属性时，会顺着原型对象树往上寻找目标属性，并返回第一个含有此属性的节点的对应属性值。这种继承策略带来的副产品是，可以轻易地通过修改原型对象上的属性使得所有继承它的对象都拥有此新增属性&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;yozora-admonition yozora-admonition--warning&quot;&gt;&lt;div class=&quot;yozora-admonition__heading&quot;&gt;&lt;h5&gt;&lt;/h5&gt;&lt;/div&gt;&lt;div class=&quot;yozora-admonition__body&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 虽然被纳入了 ECMA 标准中，但目前它是不被推荐使用的，请使用
 &lt;/span&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/getPrototypeOf&quot; title=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/getPrototypeOf&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;/a&gt;&lt;span class=&quot;yozora-text&quot;&gt; 和 &lt;/span&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/setPrototypeOf&quot; title=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/setPrototypeOf&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;/a&gt;&lt;span class=&quot;yozora-text&quot;&gt;
 代替。&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;出于方便叙述考虑，本文仍采用 &lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 进行演示。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;原型链&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;在 ES6 标准里，所有的对象都有两个内置属性 &lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;constructor&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 和 &lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt;，其中：&lt;/span&gt;&lt;/p&gt;&lt;ul class=&quot;yozora-list&quot;&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;constructor&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 指向创建它的构造函数。&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;__proto__&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt;: 指向创建它的构造函数的原型对象。&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;构造函数还有一个内置属性 &lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;prototype&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 指向它的原型对象；而构造函数的原型对象的
 &lt;/span&gt;&lt;code class=&quot;yozora-inline-code&quot;&gt;constructor&lt;/code&gt;&lt;span class=&quot;yozora-text&quot;&gt; 又指向此构造函数。有点绕，可以看下面的代码示例&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt;：&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
@@ -2263,118 +2263,25 @@ export function KthNode(pRoot: TreeNode, k: number): TreeNode | null {
     f(o.right)
   }
 }
-&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1&quot; title=&quot;https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;/a&gt;&lt;span class=&quot;yozora-text&quot;&gt;： 堆，中位数&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;维护一个大根堆和小根堆：&lt;/span&gt;&lt;/p&gt;&lt;ul class=&quot;yozora-list&quot;&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;大根堆中存放当前数列中前 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;\left\lceil\frac{N}{2}\right\rceil&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 小的元素；&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;小根堆中存放当前数列中后 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;\left\lfloor\frac{N}{2}\right\rfloor&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 大的元素；&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;则每次查询时，若元素个数为奇数，直接返回大根堆的根顶元素；否则，即元素个数为偶数，返回小根堆和大根堆的堆顶元素的平均值。&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;let count = 0
-const lowerQ: PriorityQueue = createPriorityQueue(
-  (x, y) =&amp;gt; y - x,
-)
-const upperQ: PriorityQueue = createPriorityQueue(
-  (x, y) =&amp;gt; x - y,
-)
+&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1&quot; title=&quot;https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;/a&gt;&lt;span class=&quot;yozora-text&quot;&gt;： 堆，中位数&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;维护一个大根堆和小根堆：&lt;/span&gt;&lt;/p&gt;&lt;ul class=&quot;yozora-list&quot;&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;大根堆中存放当前数列中前 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;\left\lceil\frac{N}{2}\right\rceil&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 小的元素；&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;小根堆中存放当前数列中后 &lt;/span&gt;&lt;span class=&quot;yozora-inline-math&quot;&gt;\left\lfloor\frac{N}{2}\right\rfloor&lt;/span&gt;&lt;span class=&quot;yozora-text&quot;&gt; 大的元素；&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;则每次查询时，若元素个数为奇数，直接返回大根堆的根顶元素；否则，即元素个数为偶数，返回小根堆和大根堆的堆顶元素的平均值。&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;import { createPriorityQueue } from &apos;@algorithm.ts/priority-queue&apos;
+
+const lowerQ = createPriorityQueue((x, y) =&amp;gt; x - y)
+const upperQ = createPriorityQueue((x, y) =&amp;gt; y - x)
 
 export function Insert(num: number): void {
-  count += 1
-  if (count &amp;amp; 1) {
-    if (upperQ.isEmpty() || upperQ.top() &amp;gt;= num) {
-      lowerQ.enqueue(num)
-      return
-    }
-    const x = upperQ.dequeue()
+  if (lowerQ.size() === upperQ.size()) {
     upperQ.enqueue(num)
-    lowerQ.enqueue(x)
+    lowerQ.enqueue(upperQ.dequeue()!)
   } else {
-    if (lowerQ.top() &amp;lt;= num) {
-      upperQ.enqueue(num)
-      return
-    }
-    const x = lowerQ.dequeue()
     lowerQ.enqueue(num)
-    upperQ.enqueue(x)
+    upperQ.enqueue(lowerQ.dequeue()!)
   }
 }
 
 export function GetMedian(): number {
-  if (count &amp;lt; 1) return 0
-  if (count &amp;amp; 1) return lowerQ.top()
-  return (lowerQ.top() + upperQ.top()) / 2
-}
-
-interface PriorityQueue {
-  enqueue: (val: T) =&amp;gt; void
-  dequeue: () =&amp;gt; T | undefined
-  collect: () =&amp;gt; T[]
-  top: () =&amp;gt; T | undefined
-  size: () =&amp;gt; number
-  isEmpty: () =&amp;gt; boolean
-}
-
-// 优先队列
-function createPriorityQueue(
-  cmp: (x: T, y: T) =&amp;gt; -1 | 0 | 1 | number,
-): PriorityQueue {
-  const _tree: T[] = [null]
-  let _size: number = 0
-
-  function enqueue(val: T): void {
-    _tree[++_size] = val
-    _up(_size)
-  }
-
-  function dequeue(): T | undefined {
-    if (_size &amp;lt; 1) return undefined
-
-    const target = _tree[1]
-    _tree[1] = _tree[_size--]
-    _down(1)
-
-    return target
-  }
-
-  function top(): T | undefined {
-    return _size &amp;gt; 0 ? _tree[1] : undefined
-  }
-
-  function collect(): T[] {
-    return _tree.slice(1)
-  }
-
-  function _down(index: number): void {
-    for (let i = index; i &amp;lt;= _size; ) {
-      const lft = i &amp;lt;&amp;lt; 1
-      const rht = lft | 1
-      if (lft &amp;gt; _size) break
-
-      let q = lft
-      if (rht &amp;lt;= _size &amp;amp;&amp;amp; cmp(_tree[rht], _tree[q]) &amp;lt; 0) q += 1
-
-      const x = _tree[q]
-      if (cmp(_tree[i], x) &amp;lt;= 0) break
-
-      _tree[q] = _tree[i]
-      _tree[i] = x
-      i = q
-    }
-  }
-
-  function _up(index: number): void {
-    for (let i = index; i &amp;gt; 1; ) {
-      const q = i &amp;gt;&amp;gt; 1
-      const x = _tree[q]
-      if (cmp(x, _tree[i]) &amp;lt;= 0) break
-
-      _tree[q] = _tree[i]
-      _tree[i] = x
-      i = q
-    }
-  }
-
-  return {
-    enqueue,
-    dequeue,
-    top,
-    collect,
-    size: () =&amp;gt; _size,
-    isEmpty: () =&amp;gt; _size &amp;lt; 1,
-  }
+  return lowerQ.size() === upperQ.size()
+    ? (lowerQ.top()! + upperQ.top()!) / 2
+    : lowerQ.top()!
 }
 &lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;p class=&quot;yozora-paragraph&quot;&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788&quot; title=&quot;https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;/a&gt;&lt;span class=&quot;yozora-text&quot;&gt;： 滑动窗口，单调栈&lt;/span&gt;&lt;/p&gt;&lt;code class=&quot;yozora-code&quot;&gt;&lt;pre&gt;export function maxInWindows(nums: number[], size: number): number[] {
   if (nums.length &amp;lt; size || size &amp;lt;= 0) return []
@@ -2482,4 +2389,4 @@ function createPriorityQueue(
   }
   return result
 }
-&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;/pre&gt;&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2 className=&quot;yozora-heading&quot;&gt;&lt;p className=&quot;yozora-heading__content&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;Related&lt;/span&gt;&lt;/p&gt;&lt;/h2&gt;&lt;ul class=&quot;yozora-list&quot;&gt;&lt;li class=&quot;yozora-list-item&quot;&gt;&lt;a class=&quot;yozora-link&quot; href=&quot;https://github.com/guanghechen/algorithm.ts/tree/main/packages/priority-queue&quot; title=&quot;https://github.com/guanghechen/algorithm.ts/tree/main/packages/priority-queue&quot; target=&quot;_blank&quot; rel=&quot;noopener,noreferrer&quot;&gt;&lt;span class=&quot;yozora-text&quot;&gt;@algorithm.ts/priority-queue&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
