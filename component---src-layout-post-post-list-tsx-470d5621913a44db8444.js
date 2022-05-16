@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_guanghechen_blog=self.webpackChunk_guanghechen_blog||[]).push([[324],{3503:function(e,t,n){n.r(t),n.d(t,{default:function(){return o},query:function(){return u}});var r=n(65673),a=n(67294);function o(e){var t=e.pageContext,n=t.current,o=t.totalPage,u=t.urlPrefix;return a.createElement(r.PostListPage,{current:n,totalPage:o,urlPrefix:u,posts:e.data.allMarkdownYozora.nodes,postItems:e.data.postItems.nodes})}var u=void 0}}]);
-//# sourceMappingURL=component---src-layout-post-post-list-tsx-470d5621913a44db8444.js.map
