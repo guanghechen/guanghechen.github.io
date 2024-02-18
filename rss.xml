@@ -147,10 +147,10 @@ type A = ReturnType&lt;(x: number, y: number) =&gt; string&gt;
   let timeout: ReturnType
   return debounced
 
-  function debounced(...args: Parameters): void {
+  function debounced(this: unknown, ...args: Parameters): void {
     if (timeout) clearTimeout(timeout)
-    const context = this
-    timeout = setTimeout(() =&gt; fn.apply(context, args), wait)
+    const self = this
+    timeout = setTimeout(() =&gt; fn.apply(self, args), wait)
   }
 }
 </code></pre><p class="yozora-paragraph"><span class="yozora-text">注意上面代码的高亮部分，将 </span><pre class="yozora-inline-code"><code>debounced</code></pre><span class="yozora-text"> 的 </span><pre class="yozora-inline-code"><code>this</code></pre><span class="yozora-text"> 指针绑定到 </span><pre class="yozora-inline-code"><code>fn</code></pre><span class="yozora-text"> 中再执行，这是
@@ -168,9 +168,9 @@ Javascript 老生常谈的问题了：当 </span><pre class="yozora-inline-code"
   function debounced(...args: Parameters): ReturnType | void {
     if (timeout) clearTimeout(timeout)
 
-    const context = this
+    const self = this
     timeout = setTimeout(function () {
-      lastResult = fn.apply(context, args)
+      lastResult = fn.apply(self, args)
     }, wait)
     return lastResult
   }
@@ -179,15 +179,15 @@ Javascript 老生常谈的问题了：当 </span><pre class="yozora-inline-code"
   fn: T,
   wait?: number,
 ): (...args: Parameters) =&gt; void {
-  let timeout: ReturnType
+  let timeout: ReturnType | null
   return throttled
 
   function throttled(...args: Parameters): void {
     if (timeout) return
 
-    const context = this
+    const self = this
     timeout = setTimeout(function () {
-      fn.apply(context, args)
+      fn.apply(self, args)
       timeout = null
     }, wait)
   }
@@ -196,16 +196,16 @@ Javascript 老生常谈的问题了：当 </span><pre class="yozora-inline-code"
   fn: T,
   wait?: number,
 ): (...args: Parameters) =&gt; ReturnType | void {
-  let timeout: ReturnType
+  let timeout: ReturnType | null
   let lastResult: ReturnType | undefined
   return throttled
 
   function throttled(...args: Parameters): ReturnType | void {
     if (timeout) return lastResult
 
-    const context = this
+    const self = this
     timeout = setTimeout(function () {
-      lastResult = fn.apply(context, args)
+      lastResult = fn.apply(self, args)
       timeout = null
     }, wait)
   }
@@ -838,6 +838,24 @@ dlx.solve()
 </span><span class="yozora-inline-math">\displaystyle Sub\left(\left\lfloor \frac{r}{x} \right\rfloor \times x + \left\lfloor \frac{c}{x} \right\rfloor,v\right)</span><span class="yozora-text">。</span></p><p class="yozora-paragraph"><span class="yozora-text">代码如下：</span></p><pre class="yozora-code"><code>import { createDLX } from './dlx'
 
 /**
+ * Sudoku constraints.
+ */
+export enum SudokuConstraint {
+  SLOT = 0, // Slot(a, b) 表示第 a 行 b 列个格子上要有数字
+  ROW = 1, // Row(a, b) 表示第 a 行要有数字 b
+  COL = 2, // Col(a, b) 表示第 a 列要有数字 b
+  SUB = 3, // Sub(a, b) 表示第 a 个子方阵要有数字 b
+}
+
+export interface SudokuSolver {
+  /**
+   * 数独的谜题格子，从 0 开始填，若某个格子未被填，则将其置为 -1
+   * @param puzzle
+   */
+  solve(puzzle: number[][]): boolean
+}
+
+/**
  * @param SUDOKU_SIZE_SQRT 数独子方阵大小（即数独行数的平方根)
  */
 export function createSudokuSolver(SUDOKU_SIZE_SQRT: number): SudokuSolver {
@@ -899,24 +917,6 @@ export function createSudokuSolver(SUDOKU_SIZE_SQRT: number): SudokuSolver {
     c = Math.floor(c / SUDOKU_SIZE + ebs)
     codeA = c
   }
-}
-
-/**
- * Sudoku constraints.
- */
-export enum SudokuConstraint {
-  SLOT = 0, // Slot(a, b) 表示第 a 行 b 列个格子上要有数字
-  ROW = 1, // Row(a, b) 表示第 a 行要有数字 b
-  COL = 2, // Col(a, b) 表示第 a 列要有数字 b
-  SUB = 3, // Sub(a, b) 表示第 a 个子方阵要有数字 b
-}
-
-export interface SudokuSolver {
-  /**
-   * 数独的谜题格子，从 0 开始填，若某个格子未被填，则将其置为 -1
-   * @param puzzle
-   */
-  solve(puzzle: number[][]): boolean
 }
 </code></pre><p class="yozora-paragraph"><span class="yozora-text">我把求解数独的算法封装在了 </span><a class="yozora-link" href="https://github.com/guanghechen/algorithm.ts/blob/main/packages/sudoku/README-zh.md" title="https://github.com/guanghechen/algorithm.ts/blob/main/packages/sudoku/README-zh.md" target="_blank" rel="noopener,noreferrer"><span class="yozora-text">@algorithm.ts/sudoku</span></a><span class="yozora-text"> 中，下面是求解 </span><span class="yozora-inline-math">3^2 \times 3^2</span><span class="yozora-text">
 数独谜题的示例</span><sup id="reference-footnote-5" class="yozora-footnote-reference"><a href="#footnote-5" title="5">[5]</a></sup><span class="yozora-text">：</span></p><pre class="yozora-code"><code>// import { SudokuSolver, createSudokuBoardData } from '@algorithm.ts/sudoku'

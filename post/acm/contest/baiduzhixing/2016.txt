@@ -1,0 +1,360 @@
+3:I[5613,[],""]
+5:I[31778,[],""]
+7:I[79286,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-a1b84b9234f3962b.js"],"SiteProvider"]
+8:I[54110,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-a1b84b9234f3962b.js"],""]
+9:I[74117,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-a1b84b9234f3962b.js"],"MaterialThemeProvider"]
+a:I[55153,["74","static/chunks/74-31f764c22632bceb.js","800","static/chunks/800-4848173b49d8d689.js","160","static/chunks/app/not-found-7a4f60c8a23c275c.js"],"NotFoundView"]
+4:["slug","acm/contest/baiduzhixing/2016","c"]
+0:["KGFYfxu4ET2WAvGMpSskU",[[["",{"children":["(post)",{"children":["post",{"children":[["slug","acm/contest/baiduzhixing/2016","c"],{"children":["__PAGE__?{\"slug\":[\"acm\",\"contest\",\"baiduzhixing\",\"2016\"]}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(post)",{"children":["post",{"children":[["slug","acm/contest/baiduzhixing/2016","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,"$L6",null]]},[null,["$","html",null,{"lang":"en","className":"__className_324942","children":[["$","head",null,{"children":[["$","meta",null,{"charSet":"utf8"}],["$","meta","viewport",{"name":"viewport","content":"initial-scale=1.0, width=device-width"}],["$","meta",null,{"name":"application-name","content":"guanghechen"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"光和尘"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta",null,{"name":"description","content":"Guanghechen's personal site"}],["$","meta",null,{"name":"format-detection","content":"telephone=no"}],["$","meta",null,{"name":"mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"msapplication-config","content":"/icons/browserconfig.xml"}],["$","meta",null,{"name":"msapplication-TileColor","content":"#2B5797"}],["$","meta",null,{"name":"msapplication-tap-highlight","content":"no"}],["$","meta",null,{"name":"theme-color","content":"#a2466c"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"property":"og:title","content":"光和尘"}],["$","meta",null,{"property":"og:description","content":"光和尘的个人站点"}],["$","meta",null,{"property":"og:site_name","content":"guanghechen"}],["$","meta",null,{"property":"og:url","content":"https://preview.me.guanghechen.com"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.png"}]]}],["$","body",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$La",null,{}],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2159a4b672631e08.css","precedence":"next","crossOrigin":""}]]}]}]}]}]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/611dc7861903179f.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+c:I[56057,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-9f2189f8d08bfc42.js","422","static/chunks/app/(post)/layout-2557bea208795ad7.js"],"YozoraThemeProvider"]
+d:I[20593,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-9f2189f8d08bfc42.js","422","static/chunks/app/(post)/layout-2557bea208795ad7.js"],"PostLayoutView"]
+e:I[59627,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","595","static/chunks/595-60215c9a9c19277d.js","551","static/chunks/551-68df0022cc950ef8.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-9f2189f8d08bfc42.js","918","static/chunks/app/(post)/post/%5B...slug%5D/page-80cd6d5787edd594.js"],"PostDetailPageView"]
+6:["$","$Lc",null,{"children":["$","$Ld",null,{"data":{"postItems":[{"title":"Javascript 踩坑记——继承和原型链","slug":"/post/web/javascript/inherit","tags":["studynote","javascript","ecmascript"],"createdAt":"Sep 05, 2021"},{"title":"防抖和节流","slug":"/post/algorithm/debounce-and-throttle","tags":["coding","debounce","throttle"],"createdAt":"Sep 03, 2021"},{"title":"XSS 与 CSRF 的攻防","slug":"/post/web/security/xss-csrf","tags":["web","web security","csrf"],"createdAt":"Aug 19, 2021"},{"title":"自然对数底数 e","slug":"/post/math/calculus/自然对数底数e","tags":["math","函数","极限","自然对数"],"createdAt":"Aug 07, 2021"},{"title":"当你想来一把数独","slug":"/post/game/sudoku","tags":["game","sudoku"],"createdAt":"Aug 01, 2021"},{"title":"精确覆盖问题和 DLX 算法","slug":"/post/algorithm/dlx","tags":["算法","精确覆盖","DLX 算法"],"createdAt":"Jul 24, 2021"},{"title":"洗牌问题和 knuth-shuffle 算法","slug":"/post/algorithm/shuffle","tags":["shuffle","knuth-shuffle","约瑟夫环"],"createdAt":"Jul 22, 2021"},{"title":"统计区间内的线段","slug":"/post/quiz/scanning-line/segments","tags":["quiz","扫描线","前缀和","树状数组","线段树"],"createdAt":"Jul 21, 2021"},{"title":"约瑟夫环问题","slug":"/post/quiz/classical/Josephus-ring","tags":["quiz","经典问题","约瑟夫环"],"createdAt":"Jul 16, 2021"},{"title":"剑指offer 解题报告","slug":"/post/acm/oj/nowcoder/jz-offer","tags":["专题训练","解题报告"],"createdAt":"Jul 15, 2021"},{"title":"不修改数组找出重复的数字","slug":"/post/quiz/partition/find-duplicate-number","tags":["quiz","分治","追击"],"createdAt":"Jun 29, 2021"},{"title":"背包九讲","slug":"/post/algorithm/knapsack","tags":["acm","算法","动态规划","背包问题"],"createdAt":"Jun 27, 2021"},{"title":"React Reconciliation","slug":"/post/web/react/reconciliation","tags":["react","react reconciliation"],"createdAt":"Jun 26, 2021"},{"title":"扔鸡蛋问题","slug":"/post/quiz/dp/egg-drop","tags":["quiz","动态规划"],"createdAt":"Jun 20, 2021"},{"title":"端口管理","slug":"/post/network/端口管理","tags":["network","port","ssh","netstat"],"createdAt":"Jun 20, 2021"},{"title":"最长公共子序列（LCS）","slug":"/post/algorithm/lcs","tags":["最长公共子序列","LCS"],"createdAt":"Jun 02, 2021"},{"title":"最长上升子序列（LIS）","slug":"/post/algorithm/lis","tags":["最长上升子序列","LIS"],"createdAt":"Jun 02, 2021"},{"title":"Dijkstra 算法","slug":"/post/algorithm/graph/shortest-path/dijkstra","tags":["算法","最短路","单源最短路","dijkstra"],"createdAt":"May 29, 2021"},{"title":"函数的极限","slug":"/post/math/calculus/函数的极限","tags":["math","函数","极限"],"createdAt":"May 09, 2021"},{"title":"ECMA 2020 新特性","slug":"/post/web/javascript/2020","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"ECMA 2021 新特性","slug":"/post/web/javascript/2021","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"在 excel 中启用正则表达式","slug":"/post/tool/excel/regex","tags":["excel","tools"],"createdAt":"Mar 29, 2021"},{"title":"CSS 选择器","slug":"/post/web/css/selector","tags":["web","frontend","css"],"createdAt":"Nov 02, 2020"},{"title":"Custom React Hooks","slug":"/post/web/react/hooks/custom","tags":["react","react hooks"],"createdAt":"Oct 29, 2020"},{"title":"组合游戏基础之 SG 函数和 SG 定理","slug":"/post/math/combinatorial/SG","tags":["组合数学","组合游戏","SG 定理"],"createdAt":"Sep 04, 2016"},{"title":"网络流 24 题","slug":"/post/algorithm/graph/network-flow/24-problems","tags":["acm","算法","图论","网络流","二分图","解题报告","专题训练"],"createdAt":"Jul 30, 2016"},{"title":"网络流基础之最大权闭合图","slug":"/post/algorithm/graph/network-flow/最大权闭合图","tags":["算法","图论","网络流","最大权闭合图"],"createdAt":"Jul 24, 2016"},{"title":"2016 多校第 2 场","slug":"/post/acm/contest/multi-university-training/2016/2","tags":["acm","训练赛","数据结构","解题报告"],"createdAt":"Jul 22, 2016"},{"title":"二分图","slug":"/post/algorithm/graph/bipartite-graph","tags":["算法","图论","二分图","学习笔记"],"createdAt":"Jul 17, 2016"},{"title":"伸展树专题","slug":"/post/data-structure/bbst/splay","tags":["acm","Splay","解题报告","专题训练"],"createdAt":"Jul 03, 2016"},{"title":"CCF 2015-09 最佳文章 解题报告","slug":"/post/acm/oj/ccf/2015/09/E","tags":["acm","Aho-Corasick 自动机","矩阵快速幂","动态规划","解题报告"],"createdAt":"Jun 26, 2016"},{"title":"编译原理-语法制导翻译实现计算器","slug":"/post/fundamentals-of-compiling/exercise","tags":["编译原理","语法制导翻译","计算机"],"createdAt":"Jun 23, 2016"},{"title":"编译原理-语法分析","slug":"/post/fundamentals-of-compiling/grammar","tags":["编译原理","语法分析","计算机"],"createdAt":"Jun 18, 2016"},{"title":"百度之星 2016 解题报告","slug":"/post/acm/contest/baiduzhixing/2016","tags":["acm","递推","状态压缩","动态规划","字典树","解题报告"],"createdAt":"Jun 03, 2016"},{"title":"数论基础之原根","slug":"/post/math/number-theory/原根","tags":["math","数论","原根"],"createdAt":"May 16, 2016"},{"title":"数论基础之欧拉函数","slug":"/post/math/number-theory/欧拉函数","tags":["math","数论","既约剩余系","欧拉函数"],"createdAt":"May 10, 2016"},{"title":"数论基础之筛法","slug":"/post/math/number-theory/sieve","tags":["math","数论","素数","欧拉函数","线性筛"],"createdAt":"May 06, 2016"},{"title":"数论基础之模方程初步","slug":"/post/math/number-theory/模方程/basic","tags":["math","数论","扩展欧几里得算法","中国剩余定理","Baby Step Gaint Step"],"createdAt":"May 04, 2016"},{"title":"HDU-5576 Expection of String 解题报告（原 2015-上海区域赛-E)","slug":"/post/acm/oj/hdu/5576","tags":["acm","动态规划","解题报告"],"createdAt":"Apr 24, 2016"},{"title":"树链剖分","slug":"/post/algorithm/tree/tcs","tags":["acm","算法","树链剖分"],"createdAt":"Apr 23, 2016"},{"title":"51nod-1462 数据结构 -- 解题报告","slug":"/post/acm/oj/51nod/1462","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 23, 2016"},{"title":"小球放盒模型","slug":"/post/math/combinatorial/小球放盒模型","tags":["math","组合数学"],"createdAt":"Apr 22, 2016"},{"title":"最长回文子串 Manacher 算法","slug":"/post/algorithm/string/manacher","tags":["算法","字符串","回文串","manacher"],"createdAt":"Apr 18, 2016"},{"title":"POJ-1324 Holedox Moving 解题报告","slug":"/post/acm/oj/poj/1324","tags":["acm","bfs","图论","状态压缩","解题报告"],"createdAt":"Apr 13, 2016"},{"title":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）","slug":"/post/acm/oj/hdu/5574","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 12, 2016"},{"title":"快速傅里叶变换和雷德算法","slug":"/post/math/number-theory/fft","tags":["acm","大数乘法","fft","快速傅里叶变换"],"createdAt":"Apr 10, 2016"},{"title":"HDU-5306 Gorgeous Sequence 解题报告","slug":"/post/acm/oj/hdu/5306","tags":["acm","数据结构","线段树","解题报告"],"createdAt":"Apr 09, 2016"}]},"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}]}]
+f:["acm","递推","状态压缩","动态规划","字典树","解题报告"]
+10:T93e,#include <algorithm>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+using namespace std;
+
+typedef long long LL;
+const int MAXN = 15;
+const int MOD = 1000000000 + 9;
+
+int G[MAXN][MAXN];
+int p2[MAXN * MAXN];
+int l2[1 << MAXN];
+int dp[2][1 << MAXN];
+int f[1 << MAXN];
+int c[1 << MAXN];
+
+inline int lowbit(int& x) {
+  return x & -x;
+}
+
+inline void add(int& x, int y) {
+  x += y;
+  if (x >= MOD) x -= MOD;
+}
+
+inline void sub(int& x, int y) {
+  x -= y;
+  if (x < 0) x += MOD;
+}
+
+int calc(int N, int K) {
+  const int all = (1 << N) - 1;
+  int now = 0, last = 1;
+
+  for (int s = 0; s <= all; s += 2) dp[0][s] = 0;
+  for (int s = 1; s <= all; s += 2) dp[0][s] = f[s];
+  for (int k = 1; k < K; ++k) {
+    swap(now, last);
+    memset(dp[now], 0, sizeof dp[now]);
+    for (int s = 1; s <= all; ++s) {
+      if (!dp[last][s]) continue;
+      int r = all ^ s;
+      int x = lowbit(r);
+      r ^= x;
+
+      for (int t = r; t; t = (t - 1) & r)
+        add(dp[now][s | x | t], (LL)dp[last][s] * f[t | x] % MOD);
+      add(dp[now][s | x], (LL)dp[last][s] * f[x] % MOD);
+    }
+  }
+  return dp[now][all];
+}
+
+void solve(int N, int K, int e) {
+  const int all = (1 << N) - 1;
+  static int vi[20];
+  int siz, cnt;
+
+  for (int s = 1; s <= all; ++s) {
+    siz = cnt = 0;
+    for (int u = s, v; u; u ^= v) vi[siz++] = l2[v = lowbit(u)];
+    for (int u = 0; u < siz; ++u)
+      for (int v = u + 1; v < siz; ++v) cnt += G[vi[u]][vi[v]];
+    c[s] = p2[cnt];
+  }
+
+  memcpy(f, c, sizeof f);
+
+  for (int s = 1; s <= all; ++s) {
+    int ls = lowbit(s);
+    if (ls == s) continue;
+    int r = s ^ ls;
+    for (int t = (r - 1) & r; t; t = (t - 1) & r)
+      sub(f[s], (LL)f[t | ls] * c[r ^ t] % MOD);
+    sub(f[s], (LL)f[ls] * c[r] % MOD);
+  }
+
+  int ans = (LL)calc(N, K) * p2[e] % MOD;
+  printf("%d\n", ans);
+}
+
+void work() {
+  p2[0] = 1;
+  for (int i = 1; i < MAXN * MAXN; ++i) p2[i] = p2[i - 1] * 2 % MOD;
+  for (int i = 0; i < MAXN; ++i) l2[1 << i] = i;
+
+  int T_T, N, M, K, e, u, v;
+  scanf("%d", &T_T);
+  for (int kase = 1; kase <= T_T; ++kase) {
+    printf("Case #%d:\n", kase);
+    memset(G, 0, sizeof G);
+    e = 0;
+
+    scanf("%d%d%d", &N, &M, &K);
+    for (int i = 0; i < M; ++i) {
+      scanf("%d%d", &u, &v);
+      if (u > v) swap(u, v);
+      if (u != v)
+        ++G[u - 1][v - 1];
+      else
+        ++e;
+    }
+
+    solve(N, K, e);
+  }
+}
+
+int main() {
+  work();
+  return 0;
+}
+11:Ta73,#include <algorithm>
+#include <cctype>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+#include <set>
+using namespace std;
+
+static const int MAXN = 10000 + 10;
+
+struct node {
+  node* ch[2];
+  int val;
+  void Maintain() {
+    val = 0;
+    if (ch[0]) val = ch[0]->val;
+    if (ch[1]) val = std::max(val, ch[1]->val);
+  }
+};
+
+node nodepool[MAXN << 5];
+node* nodetop;
+node* root;
+
+inline node* newnode() {
+  nodetop->ch[0] = nodetop->ch[1] = NULL;
+  nodetop->val = 0;
+  return nodetop++;
+}
+
+void Update(node*& o, int x, int v, int d = 30) {
+  if (o == NULL) o = newnode();
+  if (d == -1)
+    o->val = v;
+  else {
+    int c = (x >> d) & 1;
+    Update(o->ch[c], x, v, d - 1);
+    o->Maintain();
+  }
+}
+
+int Query(node*& o, int x, int ans = 0, int d = 30) {
+  if (o == NULL) return 0;
+  if (d == -1) return min(o->val, ans);
+  int c = (x >> d) & 1;
+  if (o->ch[c ^ 1]) {
+    if (o->ch[c ^ 1]->val < (ans ^ (1 << d)))
+      return max(o->ch[c ^ 1]->val, Query(o->ch[c], x, ans, d - 1));
+    return Query(o->ch[c ^ 1], x, ans ^ (1 << d), d - 1);
+  }
+  return Query(o->ch[c], x, ans, d - 1);
+}
+
+inline int read() {
+  int s = 0;
+  char c = getchar();
+  bool positive = true;
+  for (; !isdigit(c); c = getchar())
+    if (c == '-') positive = false;
+  for (; isdigit(c); c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+multiset<int> ms[MAXN];
+int A[MAXN];
+int B[MAXN], bsiz;
+int dp[2][MAXN];
+
+inline void add(int x, int v) {
+  int id = lower_bound(B, B + bsiz, x) - B;
+  if (ms[id].upper_bound(v) == ms[id].end()) Update(root, B[id], v);
+  ms[id].insert(v);
+}
+
+inline void sub(int x, int v) {
+  int id = lower_bound(B, B + bsiz, x) - B;
+  multiset<int>::iterator it;
+  it = ms[id].find(v);
+  ms[id].erase(it);
+  int vv = 0;
+  if (!ms[id].empty()) {
+    it = ms[id].end();
+    vv = *(--it);
+  }
+  if (vv < v) Update(root, B[id], vv);
+}
+
+void work() {
+  int N = read();
+  int K = read();
+  int L = read();
+  for (int i = 1; i <= N; ++i) A[i] = A[i - 1] ^ read();
+
+  memcpy(B, A + 1, sizeof(int) * N);
+  sort(B, B + N);
+  bsiz = std::unique(B, B + N) - B;
+
+  memset(dp[0], 0, sizeof dp[0]);
+  for (int i = 1; i <= L; ++i) dp[0][i] = A[i];
+
+  int now = 0, last = 1;
+  for (int k = 2; k <= K; ++k) {
+    nodetop = nodepool;
+    root = newnode();
+    for (int i = 0; i < bsiz; ++i) ms[i].clear();
+
+    swap(now, last);
+    for (int n = 1; n <= N; ++n) {
+      if (n > L + 1) sub(A[n - L - 1], dp[last][n - L - 1]);
+      dp[now][n] = Query(root, A[n]);
+      add(A[n], dp[last][n]);
+    }
+  }
+  printf("%d\n", dp[now][N]);
+}
+
+int main() {
+  int T_T = read();
+  for (int kase = 1; kase <= T_T; ++kase) {
+    printf("Case #%d:\n", kase);
+    work();
+  }
+  return 0;
+}
+12:T80e,#include <algorithm>
+#include <cctype>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+using namespace std;
+
+const int MAXN = 10000;
+
+struct node {
+  node* ch[2];
+  int val;
+  node(int val = 0) : val(val) {
+    ch[0] = ch[1] = NULL;
+  }
+};
+
+node* root;
+node* nodetop;
+node nodepool[MAXN << 5];
+bool dp[12][MAXN];
+int A[MAXN];
+int N, K, L;
+
+inline node* newnode() {
+  nodetop->ch[0] = nodetop->ch[1] = NULL;
+  nodetop->val = 0;
+  return nodetop++;
+}
+
+inline void Insert(int x, int d) {
+  node* u = root;
+  for (int i = 30; i >= 0; --i) {
+    int c = (x >> i) & 1;
+    if (!u->ch[c]) u->ch[c] = newnode();
+    u = u->ch[c];
+    u->val += d;
+  }
+}
+
+inline int Search(int x) {
+  node* u = root;
+  int ans = 0;
+  for (int i = 30; i >= 0; --i) {
+    int c = (x >> i) & 1;
+    if (u->ch[c ^ 1] && u->ch[c ^ 1]->val > 0) {
+      ans ^= 1 << i;
+      u = u->ch[c ^ 1];
+    } else if (u->ch[c])
+      u = u->ch[c];
+  }
+  return ans;
+}
+
+inline int read() {
+  int s = 0;
+  char c = getchar();
+  bool positive = true;
+  for (; !isdigit(c); c = getchar())
+    if (c == '-') positive = false;
+  for (; isdigit(c); c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+bool check(int val) {
+  memset(dp[1], 0, sizeof dp[1]);
+  for (int n = 1; n <= L; ++n) dp[1][n] = A[n] >= val ? true : false;
+
+  for (int k = 2; k <= K; ++k) {
+    nodetop = nodepool;
+    root = newnode();
+    for (int n = 1; n <= N; ++n) {
+      if (n > L + 1 && dp[k - 1][n - L - 1]) Insert(A[n - L - 1], -1);
+
+      dp[k][n] = Search(A[n]) >= val ? true : false;
+
+      if (dp[k - 1][n]) Insert(A[n], 1);
+    }
+  }
+  return dp[K][N];
+}
+
+void work() {
+  N = read();
+  K = read();
+  L = read();
+  for (int i = 1; i <= N; ++i) A[i] = A[i - 1] ^ read();
+
+  int lft = 0, rht = (1 << 30) | 1;
+  while (lft < rht) {
+    int mid = (lft + rht) >> 1;
+    if (check(mid))
+      lft = mid + 1;
+    else
+      rht = mid;
+  }
+
+  printf("%d\n", lft - 1);
+}
+
+int main() {
+  int T_T = read();
+  for (int kase = 1; kase <= T_T; ++kase) {
+    printf("Case #%d:\n", kase);
+    work();
+  }
+  return 0;
+}
+2:["$","$Le",null,{"data":{"title":"百度之星 2016 解题报告","titleAst":{"type":"paragraph","children":[{"type":"text","value":"百度之星 2016 解题报告"}]},"slug":"/post/acm/contest/baiduzhixing/2016","createdAt":"Jun 03, 2016","updatedAt":"Nov 03, 2021","timeToRead":"10min 57s","tags":"$f","categories":[],"ast":{"type":"root","children":[{"type":"heading","depth":2,"children":[{"type":"text","value":"1002 K 个连通块"}],"identifier":"heading-1002-k-个连通块"},{"type":"paragraph","children":[{"type":"link","url":"http://acm.hdu.edu.cn/showproblem.php?pid=5713","children":[{"type":"text","value":"题目链接"}]}]},{"type":"heading","depth":3,"children":[{"type":"text","value":"题目简析"}],"identifier":"heading-题目简析"},{"type":"paragraph","children":[{"type":"text","value":"假入 "},{"type":"inlineMath","value":"N"},{"type":"text","value":" 个点依次为："},{"type":"inlineMath","value":"\\displaystyle V=\\left\\lbrace A_0,A_1,\\cdots,A_{N-1} \\right\\rbrace"},{"type":"text","value":".\n不难想到状态压缩。令 "},{"type":"inlineMath","value":"dp(k, s)"},{"type":"text","value":" 表示点集 "},{"type":"inlineMath","value":"\\displaystyle V_s= \\left\\lbrace A_i \\;\\Bigg|\\; \\left\\lfloor \\frac{s}{2^i} \\right\\rfloor \\equiv 1 \\mod 2 \\right\\rbrace"},{"type":"text","value":"\n恰好构成 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 个连通块的方案数。要注意的是，点对 "},{"type":"inlineMath","value":"\\displaystyle \\big\\lbrace (u,v) \\;\\big|\\; u \\in V, v\\in V_s \\big\\rbrace"},{"type":"text","value":"\n之间的连边都要抹去，因为 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中的点首先要和不在 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中的断开“联系”，才能得到独立的 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 连通块，这样才能正确递推。"}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"如何求 "},{"type":"inlineMath","value":"dp(1,s)"}],"identifier":"heading-如何求-dp-1-s"},{"type":"paragraph","children":[{"type":"text","value":"为方便叙述，记 "},{"type":"inlineMath","value":"f(s) = dp(1,s)"},{"type":"text","value":"， "},{"type":"inlineMath","value":"\\displaystyle s=2^{j_1}+2^{j_2}+\\cdots+2^{j_t}"},{"type":"text","value":"，故其所代表点集为 "},{"type":"inlineMath","value":"\\displaystyle V_s=\\big\\lbrace A_{j_1},A_{j_2},\\cdots,A_{j_t} \\big\\rbrace"},{"type":"text","value":",\n"},{"type":"inlineMath","value":"(0\\leqslant j_1 < j_2 < \\cdots < j_t \\leqslant N-1)"},{"type":"text","value":". 令 "},{"type":"inlineMath","value":"E(s)"},{"type":"text","value":" 表示 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中的互不相同的两点之间的边的总数；则"}]},{"type":"math","value":"f(s) = 2^{E(s)} - \\sum_{A_{j_1} \\in V_{s'},~V_{s'} \\in \\lbrace V_s \\rbrace} f(s') \\times 2^{E(s-s')}\n"},{"type":"paragraph","children":[{"type":"text","value":"证明并不难，为使 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 为一个独立的连通块，则需要考虑两个部分："}]},{"type":"list","ordered":true,"orderType":"1","start":1,"marker":46,"spread":true,"children":[{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中的点与不在 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中的点之间不连通；因此，我们仅需考虑 "},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 中两两之间的边，去边的总方案为 "},{"type":"inlineMath","value":"2^{E(s)}"},{"type":"text","value":"."}]}]},{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 内部的点两两连通；可以反过来考虑，减去所有使得内部不连通的情况。将点集\n"},{"type":"inlineMath","value":"V_s"},{"type":"text","value":" 分成 "},{"type":"inlineMath","value":"V_{s'}"},{"type":"text","value":" 和 "},{"type":"inlineMath","value":"V_{s''}"},{"type":"text","value":" 两部分，其中 "},{"type":"inlineMath","value":"V_{s'}+V_{s''}=V_s"},{"type":"text","value":" 且\n"},{"type":"inlineMath","value":"A_{j_1} \\in V_{s'}"},{"type":"text","value":"，且 "},{"type":"inlineMath","value":"V_{s'}"},{"type":"text","value":" 构成一个独立的连通块。对于这一划分方案，共有 "},{"type":"inlineMath","value":"f(s') \\times 2^{E(s-s')}"},{"type":"text","value":" 种方案使得 "},{"type":"inlineMath","value":"V_{s'}"},{"type":"text","value":" 和 "},{"type":"inlineMath","value":"V_{s''}"},{"type":"text","value":" 之间不连通。因为 "},{"type":"inlineMath","value":"V_{s'}"},{"type":"text","value":" 是一个独立的连通块，所以 "},{"type":"inlineMath","value":"V_{s'}"},{"type":"text","value":" 和 "},{"type":"inlineMath","value":"V_{s''}"},{"type":"text","value":" 之间的边必须全断，则 "},{"type":"inlineMath","value":"V_{s''}"},{"type":"text","value":" 中的边可以自由选择了。"}]}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"如何递推"}],"identifier":"heading-如何递推"},{"type":"paragraph","children":[{"type":"text","value":"不难想到递推方程 "},{"type":"inlineMath","value":"\\displaystyle dp(k+1,s) = \\sum_{V_{s'} \\in V_s} dp(k,s') \\times dp(1, s-s')"},{"type":"text","value":".\n但是很遗憾，它是错的："}]},{"type":"blockquote","children":[{"type":"paragraph","children":[{"type":"text","value":"考虑 "},{"type":"inlineMath","value":"k=3"},{"type":"text","value":" 的情况，如果 "},{"type":"inlineMath","value":"V_s=\\big\\lbrace A_1, A_2,A_3 \\big\\rbrace"},{"type":"text","value":"，则 "},{"type":"inlineMath","value":"V_{s'}=\\big\\lbrace A_1,A_2 \\big\\rbrace"},{"type":"text","value":" 与 "},{"type":"inlineMath","value":"V_{s'}=\\big\\lbrace A_1, A_3 \\big\\rbrace"},{"type":"text","value":"\n所做的贡献是完全重复的。"}]}]},{"type":"paragraph","children":[{"type":"text","value":"去掉重复的贡献，我们得到新的递推式"}]},{"type":"math","value":"dp(k+1, s) = \\sum_{A_{j_1} \\notin V_{s'},~V_{s'} \\in V_s} dp(k, s') \\times dp(1, s-s')\n"},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"进一步分析"}],"identifier":"heading-进一步分析"},{"type":"paragraph","children":[{"type":"text","value":"上述分析足以通过此题，我跑了 858MS。但还有改进的余地。先改造一下递推式，记 。"}]},{"type":"math","value":"\\begin{align}\n  V'_s&=V-V_{s'}=\\big\\lbrace A_{p_1},A_{p_2},\\cdots,A_{p_q} \\big\\rbrace\\\\\\\\\n  dp(k+1, s) &= \\sum_{A_{j_1} \\in V_{s'},~V_{s'} \\in V_s,~A_{p_1} \\in V_{s-s'}} dp(k, s') \\times dp(1, s-s')\n\\end{align}\n"},{"type":"paragraph","children":[{"type":"text","value":"上述递推式用刷表法实现即可避免 "},{"type":"inlineMath","value":"A_{p_1} \\in V_{s-s'}"},{"type":"text","value":" 的判断。注意到我们要的终态是 "},{"type":"inlineMath","value":"dp(K, 2^N-1)"},{"type":"text","value":"，所以，我们可以只计算满足 "},{"type":"inlineMath","value":"A_1 \\in V_s"},{"type":"text","value":" 的状态 "},{"type":"inlineMath","value":"dp(K, s)"},{"type":"text","value":"，理由是 "},{"type":"inlineMath","value":"A_1 \\in V_{s'}"},{"type":"text","value":"，即这条递推到 "},{"type":"inlineMath","value":"dp(K, s)"},{"type":"text","value":" 的递推链都可以被计算到。当然，也可以采取记忆化搜索。跑了 124MS 左右。"}]},{"type":"heading","depth":3,"children":[{"type":"text","value":"程序实现"}],"identifier":"heading-程序实现"},{"type":"list","ordered":false,"marker":42,"spread":false,"children":[{"type":"listItem","children":[{"type":"text","value":"空间复杂度 "},{"type":"inlineMath","value":"O(2^N)"}]},{"type":"listItem","children":[{"type":"text","value":"时间复杂度 "},{"type":"inlineMath","value":"O(N^2 \\cdot 2^N+K \\cdot 3^N)"}]}]},{"type":"code","lang":"cpp","meta":"title=\"1002.cpp\" sourcefile=\"./1002.cpp\" maxlines=\"20\" collapsed linenos","value":"$10"},{"type":"heading","depth":2,"children":[{"type":"text","value":"1004 XOR 游戏"}],"identifier":"heading-1004-xor-游戏"},{"type":"paragraph","children":[{"type":"link","url":"http://acm.hdu.edu.cn/showproblem.php?pid=5715","children":[{"type":"text","value":"题目链接"}]}]},{"type":"heading","depth":3,"children":[{"type":"text","value":"题目简析"}],"identifier":"heading-题目简析-2"},{"type":"paragraph","children":[{"type":"text","value":"设 "},{"type":"inlineMath","value":"dp(k, n)"},{"type":"text","value":" 表示将前 "},{"type":"inlineMath","value":"n"},{"type":"text","value":" 个数划分成 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 组的合法方案的"},{"type":"strong","children":[{"type":"text","value":"分组异或和最小值"}]},{"type":"text","value":"的最大值；并设 "},{"type":"inlineMath","value":"A_n"},{"type":"text","value":" 表示前 "},{"type":"inlineMath","value":"n"},{"type":"text","value":" 个数的异或和。不难得到递推方程："}]},{"type":"math","value":"  dp(k+1, n) = \\max \\Big\\lbrace \\min \\big\\lbrace dp(k, n-i),\n  A_n \\oplus A_{n-i} \\big\\rbrace \\Big\\rbrace, 1\\leqslant i\\leqslant L\n"},{"type":"paragraph","children":[{"type":"text","value":"很可惜，这个方程的时间复杂度是 "},{"type":"inlineMath","value":"O(M\\cdot N\\cdot L)"},{"type":"text","value":" 的，难以承受。如何在更短的时间内求出 "},{"type":"inlineMath","value":"dp(k+1, n)"},{"type":"text","value":" 呢？"}]},{"type":"heading","depth":3,"children":[{"type":"text","value":"算法一"}],"identifier":"heading-算法一"},{"type":"paragraph","children":[{"type":"text","value":"先假设 "},{"type":"inlineMath","value":"\\big\\lbrace A_{n-L},A_{n-L+1},\\cdots,A_{n-1} \\big\\rbrace"},{"type":"text","value":" 两两不相等；并将其二进制表示插入字典树中。字典树中表示 "},{"type":"inlineMath","value":"A_i"},{"type":"text","value":" 的链，其叶子节点的权值为\n"},{"type":"inlineMath","value":"dp(k, i)"},{"type":"text","value":"，非叶子节点权值为所有子孙节点权值最大值。那么，计算 "},{"type":"inlineMath","value":"dp(k+1, n)"},{"type":"text","value":" 时，仅需在用字典树贪心求 "},{"type":"inlineMath","value":"A_n"},{"type":"text","value":" 最大异或和的基础上，将节点的权值作为选择贪心策略的依据。具体地："}]},{"type":"paragraph","children":[{"type":"text","value":"设当前在字典树中第 "},{"type":"inlineMath","value":"h"},{"type":"text","value":" 层(考虑到题目的数据范围，从 "},{"type":"inlineMath","value":"31"},{"type":"text","value":" 开始递减计数，所有叶子节点都在第 "},{"type":"inlineMath","value":"0"},{"type":"text","value":" 层)：记在前面 "},{"type":"inlineMath","value":"31-h"},{"type":"text","value":" 层中，选择的边边权依次为："},{"type":"inlineMath","value":"a_{30},a_{29},\\cdots,a_{h}"},{"type":"text","value":".\n并记："}]},{"type":"math","value":"  \\begin{align}\n    x&=A_n=b_{30}\\cdot 2^{30}+b_{29}\\cdot 2^{29}+\\cdots+b_0 2^{0}\\\\\n    y&=(a_{30} \\oplus b_{30})\\cdot 2^{30}+(a_{29} \\oplus b_{29})\\cdot 2^{29}+\\cdots+(a_{h} \\oplus b_{h})\\cdot 2^h\n  \\end{align}\n"},{"type":"paragraph","children":[{"type":"text","value":"接下来考虑下一层往哪走，即 "},{"type":"inlineMath","value":"a_{h-1}"},{"type":"text","value":" 的取值。"}]},{"type":"paragraph","children":[{"type":"text","value":"记与当前节点相连且边权为 "},{"type":"inlineMath","value":"a_{h-1} = b_{h-1} \\oplus 1"},{"type":"text","value":" 的子节点为 "},{"type":"inlineMath","value":"o_1"},{"type":"text","value":"；另一子节点为 "},{"type":"inlineMath","value":"o_2"},{"type":"text","value":"。其权值依次为 "},{"type":"inlineMath","value":"val(o_1), \\; val(o_2)"},{"type":"text","value":"."}]},{"type":"list","ordered":true,"orderType":"1","start":1,"marker":46,"spread":true,"children":[{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"inlineMath","value":"\\displaystyle \\left\\lfloor \\frac{x}{2^h} \\right\\rfloor \\equiv 1\\hskip -1em \\mod 2"},{"type":"text","value":".\n也就是 "},{"type":"inlineMath","value":"b_h=1"},{"type":"text","value":"."}]},{"type":"list","ordered":false,"marker":45,"spread":true,"children":[{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"text","value":"如果 "},{"type":"inlineMath","value":"val(o_1) < y+2^{h-1}"},{"type":"text","value":"，说明如果下一步选择 "},{"type":"inlineMath","value":"o_1"},{"type":"text","value":"，则"}]},{"type":"math","value":"\\max \\Big\\lbrace \\min \\big\\lbrace dp[k][n-i], A[n] \\oplus A[n-i] \\big\\rbrace \\Big\\rbrace = val(o_1)\n"},{"type":"paragraph","children":[{"type":"text","value":"所以我们 "},{"type":"strong","children":[{"type":"text","value":"仅需选择 "},{"type":"inlineMath","value":"o_2"}]},{"type":"text","value":" 求出一个最优值 "},{"type":"inlineMath","value":"ans_2"},{"type":"text","value":"，最后的答案就是 "},{"type":"inlineMath","value":"\\max \\big\\lbrace val(o_1),ans_2 \\big\\rbrace"},{"type":"text","value":"."}]}]},{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"text","value":"如果 "},{"type":"inlineMath","value":"val(o_1) \\geqslant y+2^{h-1}"},{"type":"text","value":"，即选择 "},{"type":"inlineMath","value":"o_1"},{"type":"text","value":"，则最坏情况答案不小于\n"},{"type":"inlineMath","value":"y+2^{h-1}"},{"type":"text","value":". 同时，选择 "},{"type":"inlineMath","value":"o_2"},{"type":"text","value":"，最好的情况不会大于 "},{"type":"inlineMath","value":"y+2^{h-1}"},{"type":"text","value":"."}]},{"type":"paragraph","children":[{"type":"text","value":"所以我们 "},{"type":"strong","children":[{"type":"text","value":"仅需选择 "},{"type":"inlineMath","value":"o_1"}]},{"type":"text","value":" 求出一个最优值 "},{"type":"inlineMath","value":"ans_1"},{"type":"text","value":"，即是最后的答案。"}]}]}]}]},{"type":"listItem","children":[{"type":"paragraph","children":[{"type":"inlineMath","value":"\\displaystyle \\left\\lfloor \\frac{x}{2^h} \\right\\rfloor \\equiv 0\\hskip -1em \\mod 2"},{"type":"text","value":".\n也就是 "},{"type":"inlineMath","value":"b_h=0"},{"type":"text","value":"."}]},{"type":"paragraph","children":[{"type":"text","value":"只有走到 "},{"type":"inlineMath","value":"o_2"},{"type":"text","value":" 这一个选择。"}]}]}]},{"type":"paragraph","children":[{"type":"text","value":"根据上面的分析，不难发现，查询操作时间复杂度为 "},{"type":"inlineMath","value":"O(1)"},{"type":"text","value":"。如果存在一对 "},{"type":"inlineMath","value":"(i,j)"},{"type":"text","value":" 使得 "},{"type":"inlineMath","value":"A_i=A_j"},{"type":"text","value":" 呢？"}]},{"type":"paragraph","children":[{"type":"text","value":"事实上，只要保证字典树中的表示 "},{"type":"inlineMath","value":"A_i"},{"type":"text","value":" 的链的叶子节点权值为\n"},{"type":"inlineMath","value":"\\max \\big\\lbrace dp[k][n-i],dp[k][n-j] \\big\\rbrace"},{"type":"text","value":" 就好了。可以先将 "},{"type":"inlineMath","value":"A"},{"type":"text","value":" 离散化，开 "},{"type":"inlineMath","value":"N"},{"type":"text","value":" 棵 "},{"type":"inlineMath","value":"multiset"},{"type":"text","value":"。那么，在删除 "},{"type":"inlineMath","value":"dp(k, n-L-1)"},{"type":"text","value":" 时，只要将 "},{"type":"inlineMath","value":"A_{n-L-1}"},{"type":"text","value":" 对应的 "},{"type":"inlineMath","value":"multiset"},{"type":"text","value":" 中最大权值更新到字典树中即可。"}]},{"type":"heading","depth":4,"children":[{"type":"text","value":"程序实现"}],"identifier":"heading-程序实现-2"},{"type":"list","ordered":false,"marker":42,"spread":false,"children":[{"type":"listItem","children":[{"type":"text","value":"时间复杂度："},{"type":"inlineMath","value":"O(M\\cdot N\\cdot \\log L)"}]},{"type":"listItem","children":[{"type":"text","value":"空间复杂度："},{"type":"inlineMath","value":"O(N)"}]}]},{"type":"code","lang":"cpp","meta":"title=\"1004.cpp\" sourcefile=\"./1004.cpp\" maxlines=\"20\" collapsed linenos","value":"$11"},{"type":"admonition","keyword":"tip","title":[{"type":"text","value":"HINT"}],"children":[{"type":"paragraph","children":[{"type":"text","value":"在离散化过程中使用排序，查询使用 "},{"type":"inlineMath","value":"lower_bound"},{"type":"text","value":"，复杂度退化为 "},{"type":"inlineMath","value":"O(M\\cdot N\\cdot(\\log L+\\log N))"},{"type":"text","value":".\n不过，仍然只跑了 "},{"type":"inlineMath","value":"202MS"},{"type":"text","value":"。"}]}]},{"type":"heading","depth":3,"children":[{"type":"text","value":"算法二"}],"identifier":"heading-算法二"},{"type":"paragraph","children":[{"type":"text","value":"重新定义 "},{"type":"inlineMath","value":"dp(k, n)"},{"type":"text","value":"。给定一个下界 "},{"type":"inlineMath","value":"val"},{"type":"text","value":"，定义 "},{"type":"inlineMath","value":"dp(k, n)"},{"type":"text","value":" 为能否将前 "},{"type":"inlineMath","value":"n"},{"type":"text","value":" 个数分成\n"},{"type":"inlineMath","value":"k"},{"type":"text","value":" 份，使得合法方案的"},{"type":"strong","children":[{"type":"text","value":"分组异或和最小值"}]},{"type":"text","value":"的最大值大于等于 "},{"type":"inlineMath","value":"val"},{"type":"text","value":".  那么，我们仅需将 "},{"type":"inlineMath","value":"1\\leqslant i\\leqslant L"},{"type":"text","value":" 中满足 "},{"type":"inlineMath","value":"dp(k, n-i)=true"},{"type":"text","value":" 的 "},{"type":"inlineMath","value":"A_{n-i}"},{"type":"text","value":" 丢进字典树中，则仅需判断字典树中的数与 "},{"type":"inlineMath","value":"A_n"},{"type":"text","value":" 最大异或值是否大于等于 "},{"type":"inlineMath","value":"val"},{"type":"text","value":" 即可。然后，仅需二分 "},{"type":"inlineMath","value":"val"},{"type":"text","value":" 即可。"}]},{"type":"heading","depth":4,"children":[{"type":"text","value":"程序实现"}],"identifier":"heading-程序实现-3"},{"type":"list","ordered":false,"marker":42,"spread":false,"children":[{"type":"listItem","children":[{"type":"text","value":"时间复杂度："},{"type":"inlineMath","value":"O(M\\cdot N\\cdot \\log N)"}]},{"type":"listItem","children":[{"type":"text","value":"空间复杂度："},{"type":"inlineMath","value":"O(N)"}]}]},{"type":"code","lang":"cpp","meta":"title=\"1004_2.cpp\" sourcefile=\"./1004_2.cpp\" maxlines=\"20\" collapsed linenos","value":"$12"},{"type":"admonition","keyword":"tip","title":[{"type":"text","value":"HINT"}],"children":[{"type":"paragraph","children":[{"type":"text","value":"算法二思路简单，实现难度小，效率还不错，跑了 "},{"type":"inlineMath","value":"1092MS"},{"type":"text","value":"。"}]}]}]},"toc":{"children":[{"depth":2,"identifier":"heading-1002-k-个连通块","contents":[{"type":"text","value":"1002 K 个连通块"}],"children":[{"depth":3,"identifier":"heading-题目简析","contents":[{"type":"text","value":"题目简析"}],"children":[]},{"depth":3,"identifier":"heading-如何求-dp-1-s","contents":[{"type":"text","value":"如何求 "},{"type":"inlineMath","value":"dp(1,s)"}],"children":[]},{"depth":3,"identifier":"heading-如何递推","contents":[{"type":"text","value":"如何递推"}],"children":[]},{"depth":3,"identifier":"heading-进一步分析","contents":[{"type":"text","value":"进一步分析"}],"children":[]},{"depth":3,"identifier":"heading-程序实现","contents":[{"type":"text","value":"程序实现"}],"children":[]}]},{"depth":2,"identifier":"heading-1004-xor-游戏","contents":[{"type":"text","value":"1004 XOR 游戏"}],"children":[{"depth":3,"identifier":"heading-题目简析-2","contents":[{"type":"text","value":"题目简析"}],"children":[]},{"depth":3,"identifier":"heading-算法一","contents":[{"type":"text","value":"算法一"}],"children":[{"depth":4,"identifier":"heading-程序实现-2","contents":[{"type":"text","value":"程序实现"}],"children":[]}]},{"depth":3,"identifier":"heading-算法二","contents":[{"type":"text","value":"算法二"}],"children":[{"depth":4,"identifier":"heading-程序实现-3","contents":[{"type":"text","value":"程序实现"}],"children":[]}]}]}]},"ecmaImports":[],"definitionMap":{},"footnoteDefinitionMap":{},"images":[],"paginationUrl":"/posts/5","prev":{"title":"数论基础之原根","slug":"/post/math/number-theory/原根"},"next":{"title":"编译原理-语法分析","slug":"/post/fundamentals-of-compiling/grammar"},"aplayerOptions":null}}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"百度之星 2016 解题报告 | guanghechen"}],["$","meta","3",{"name":"description","content":"百度之星 2016 解题报告"}],["$","meta","4",{"name":"application-name","content":"guanghechen"}],["$","link","5",{"rel":"author","href":"https://github.com/guanghechen"}],["$","meta","6",{"name":"author","content":"光和尘"}],["$","link","7",{"rel":"icon","href":"/favicon.png"}],["$","meta","8",{"name":"next-size-adjust"}]]
+1:null
