@@ -1,0 +1,1964 @@
+3:I[5613,[],""]
+5:I[31778,[],""]
+7:I[79286,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],"SiteProvider"]
+8:I[54110,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],""]
+9:I[74117,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],"MaterialThemeProvider"]
+a:I[55153,["74","static/chunks/74-31f764c22632bceb.js","800","static/chunks/800-4848173b49d8d689.js","160","static/chunks/app/not-found-7a4f60c8a23c275c.js"],"NotFoundView"]
+4:["slug","data-structure/bbst/splay","c"]
+0:["QrHnf4rdYBDkyXQkdleFO",[[["",{"children":["(post)",{"children":["post",{"children":[["slug","data-structure/bbst/splay","c"],{"children":["__PAGE__?{\"slug\":[\"data-structure\",\"bbst\",\"splay\"]}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(post)",{"children":["post",{"children":[["slug","data-structure/bbst/splay","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,"$L6",null]]},[null,["$","html",null,{"lang":"en","className":"__className_324942","children":[["$","head",null,{"children":[["$","meta",null,{"charSet":"utf8"}],["$","meta","viewport",{"name":"viewport","content":"initial-scale=1.0, width=device-width"}],["$","meta",null,{"name":"application-name","content":"guanghechen"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"光和尘"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta",null,{"name":"description","content":"Guanghechen's personal site"}],["$","meta",null,{"name":"format-detection","content":"telephone=no"}],["$","meta",null,{"name":"mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"msapplication-config","content":"/icons/browserconfig.xml"}],["$","meta",null,{"name":"msapplication-TileColor","content":"#2B5797"}],["$","meta",null,{"name":"msapplication-tap-highlight","content":"no"}],["$","meta",null,{"name":"theme-color","content":"#a2466c"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"property":"og:title","content":"光和尘"}],["$","meta",null,{"property":"og:description","content":"光和尘的个人站点"}],["$","meta",null,{"property":"og:site_name","content":"guanghechen"}],["$","meta",null,{"property":"og:url","content":"https://me.guanghechen.com"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.png"}]]}],["$","body",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$La",null,{}],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2159a4b672631e08.css","precedence":"next","crossOrigin":""}]]}]}]}]}]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f2ccec9f31141b1c.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+c:I[56057,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","63","static/chunks/app/(essay)/layout-5f49ece7d1bf5812.js"],"YozoraThemeProvider"]
+d:I[20593,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","63","static/chunks/app/(essay)/layout-5f49ece7d1bf5812.js"],"PostLayoutView"]
+e:I[59627,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","595","static/chunks/595-60215c9a9c19277d.js","551","static/chunks/551-68df0022cc950ef8.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","918","static/chunks/app/(post)/post/%5B...slug%5D/page-80cd6d5787edd594.js"],"PostDetailPageView"]
+6:["$","$Lc",null,{"children":["$","$Ld",null,{"data":{"postItems":[{"title":"Javascript 踩坑记——继承和原型链","slug":"/post/web/javascript/inherit","tags":["studynote","javascript","ecmascript"],"createdAt":"Sep 05, 2021"},{"title":"防抖和节流","slug":"/post/algorithm/debounce-and-throttle","tags":["coding","debounce","throttle"],"createdAt":"Sep 03, 2021"},{"title":"XSS 与 CSRF 的攻防","slug":"/post/web/security/xss-csrf","tags":["web","web security","csrf"],"createdAt":"Aug 19, 2021"},{"title":"自然对数底数 e","slug":"/post/math/calculus/自然对数底数e","tags":["math","函数","极限","自然对数"],"createdAt":"Aug 07, 2021"},{"title":"当你想来一把数独","slug":"/post/game/sudoku","tags":["game","sudoku"],"createdAt":"Aug 01, 2021"},{"title":"精确覆盖问题和 DLX 算法","slug":"/post/algorithm/dlx","tags":["算法","精确覆盖","DLX 算法"],"createdAt":"Jul 24, 2021"},{"title":"洗牌问题和 knuth-shuffle 算法","slug":"/post/algorithm/shuffle","tags":["shuffle","knuth-shuffle","约瑟夫环"],"createdAt":"Jul 22, 2021"},{"title":"统计区间内的线段","slug":"/post/quiz/scanning-line/segments","tags":["quiz","扫描线","前缀和","树状数组","线段树"],"createdAt":"Jul 21, 2021"},{"title":"约瑟夫环问题","slug":"/post/quiz/classical/Josephus-ring","tags":["quiz","经典问题","约瑟夫环"],"createdAt":"Jul 16, 2021"},{"title":"剑指offer 解题报告","slug":"/post/acm/oj/nowcoder/jz-offer","tags":["专题训练","解题报告"],"createdAt":"Jul 15, 2021"},{"title":"不修改数组找出重复的数字","slug":"/post/quiz/partition/find-duplicate-number","tags":["quiz","分治","追击"],"createdAt":"Jun 29, 2021"},{"title":"背包九讲","slug":"/post/algorithm/knapsack","tags":["acm","算法","动态规划","背包问题"],"createdAt":"Jun 27, 2021"},{"title":"React Reconciliation","slug":"/post/web/react/reconciliation","tags":["react","react reconciliation"],"createdAt":"Jun 26, 2021"},{"title":"扔鸡蛋问题","slug":"/post/quiz/dp/egg-drop","tags":["quiz","动态规划"],"createdAt":"Jun 20, 2021"},{"title":"端口管理","slug":"/post/network/端口管理","tags":["network","port","ssh","netstat"],"createdAt":"Jun 20, 2021"},{"title":"最长公共子序列（LCS）","slug":"/post/algorithm/lcs","tags":["最长公共子序列","LCS"],"createdAt":"Jun 02, 2021"},{"title":"最长上升子序列（LIS）","slug":"/post/algorithm/lis","tags":["最长上升子序列","LIS"],"createdAt":"Jun 02, 2021"},{"title":"Dijkstra 算法","slug":"/post/algorithm/graph/shortest-path/dijkstra","tags":["算法","最短路","单源最短路","dijkstra"],"createdAt":"May 29, 2021"},{"title":"函数的极限","slug":"/post/math/calculus/函数的极限","tags":["math","函数","极限"],"createdAt":"May 09, 2021"},{"title":"ECMA 2020 新特性","slug":"/post/web/javascript/2020","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"ECMA 2021 新特性","slug":"/post/web/javascript/2021","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"在 excel 中启用正则表达式","slug":"/post/tool/excel/regex","tags":["excel","tools"],"createdAt":"Mar 29, 2021"},{"title":"CSS 选择器","slug":"/post/web/css/selector","tags":["web","frontend","css"],"createdAt":"Nov 02, 2020"},{"title":"Custom React Hooks","slug":"/post/web/react/hooks/custom","tags":["react","react hooks"],"createdAt":"Oct 29, 2020"},{"title":"组合游戏基础之 SG 函数和 SG 定理","slug":"/post/math/combinatorial/SG","tags":["组合数学","组合游戏","SG 定理"],"createdAt":"Sep 04, 2016"},{"title":"网络流 24 题","slug":"/post/algorithm/graph/network-flow/24-problems","tags":["acm","算法","图论","网络流","二分图","解题报告","专题训练"],"createdAt":"Jul 30, 2016"},{"title":"网络流基础之最大权闭合图","slug":"/post/algorithm/graph/network-flow/最大权闭合图","tags":["算法","图论","网络流","最大权闭合图"],"createdAt":"Jul 24, 2016"},{"title":"2016 多校第 2 场","slug":"/post/acm/contest/multi-university-training/2016/2","tags":["acm","训练赛","数据结构","解题报告"],"createdAt":"Jul 22, 2016"},{"title":"二分图","slug":"/post/algorithm/graph/bipartite-graph","tags":["算法","图论","二分图","学习笔记"],"createdAt":"Jul 17, 2016"},{"title":"伸展树专题","slug":"/post/data-structure/bbst/splay","tags":["acm","Splay","解题报告","专题训练"],"createdAt":"Jul 03, 2016"},{"title":"CCF 2015-09 最佳文章 解题报告","slug":"/post/acm/oj/ccf/2015/09/E","tags":["acm","Aho-Corasick 自动机","矩阵快速幂","动态规划","解题报告"],"createdAt":"Jun 26, 2016"},{"title":"编译原理-语法制导翻译实现计算器","slug":"/post/fundamentals-of-compiling/exercise","tags":["编译原理","语法制导翻译","计算机"],"createdAt":"Jun 23, 2016"},{"title":"编译原理-语法分析","slug":"/post/fundamentals-of-compiling/grammar","tags":["编译原理","语法分析","计算机"],"createdAt":"Jun 18, 2016"},{"title":"百度之星 2016 解题报告","slug":"/post/acm/contest/baiduzhixing/2016","tags":["acm","递推","状态压缩","动态规划","字典树","解题报告"],"createdAt":"Jun 03, 2016"},{"title":"数论基础之原根","slug":"/post/math/number-theory/原根","tags":["math","数论","原根"],"createdAt":"May 16, 2016"},{"title":"数论基础之欧拉函数","slug":"/post/math/number-theory/欧拉函数","tags":["math","数论","既约剩余系","欧拉函数"],"createdAt":"May 10, 2016"},{"title":"数论基础之筛法","slug":"/post/math/number-theory/sieve","tags":["math","数论","素数","欧拉函数","线性筛"],"createdAt":"May 06, 2016"},{"title":"数论基础之模方程初步","slug":"/post/math/number-theory/模方程/basic","tags":["math","数论","扩展欧几里得算法","中国剩余定理","Baby Step Gaint Step"],"createdAt":"May 04, 2016"},{"title":"HDU-5576 Expection of String 解题报告（原 2015-上海区域赛-E)","slug":"/post/acm/oj/hdu/5576","tags":["acm","动态规划","解题报告"],"createdAt":"Apr 24, 2016"},{"title":"树链剖分","slug":"/post/algorithm/tree/tcs","tags":["acm","算法","树链剖分"],"createdAt":"Apr 23, 2016"},{"title":"51nod-1462 数据结构 -- 解题报告","slug":"/post/acm/oj/51nod/1462","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 23, 2016"},{"title":"小球放盒模型","slug":"/post/math/combinatorial/小球放盒模型","tags":["math","组合数学"],"createdAt":"Apr 22, 2016"},{"title":"最长回文子串 Manacher 算法","slug":"/post/algorithm/string/manacher","tags":["算法","字符串","回文串","manacher"],"createdAt":"Apr 18, 2016"},{"title":"POJ-1324 Holedox Moving 解题报告","slug":"/post/acm/oj/poj/1324","tags":["acm","bfs","图论","状态压缩","解题报告"],"createdAt":"Apr 13, 2016"},{"title":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）","slug":"/post/acm/oj/hdu/5574","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 12, 2016"},{"title":"快速傅里叶变换和雷德算法","slug":"/post/math/number-theory/fft","tags":["acm","大数乘法","fft","快速傅里叶变换"],"createdAt":"Apr 10, 2016"},{"title":"HDU-5306 Gorgeous Sequence 解题报告","slug":"/post/acm/oj/hdu/5306","tags":["acm","数据结构","线段树","解题报告"],"createdAt":"Apr 09, 2016"}]},"storageKey":"@kyokuya/react-layout-post/#page","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}]}]
+f:["acm","Splay","解题报告","专题训练"]
+10:Tce4,#include <bits/stdc++.h>
+
+typedef long long LL;
+
+struct node {
+  int key;
+  int siz;
+  node* lson;
+  node* rson;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+typedef std::pair<node*, node*> droot;
+const int MAX_NODES = 200000 + 10;
+
+node* null;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+inline int rank(root o, int key) {
+  if (o == null) return 0;
+  if (key == o->key) return o->lson->siz;
+  if (key < o->key) return rank(o->lson, key);
+  return o->lson->siz + 1 + rank(o->rson, key);
+}
+
+inline void insert(root& o, int id) {
+  int k = rank(o, id);
+  root left, right;
+  root middle = newnode(id);
+  split(o, k, left, right);
+  o = merge(merge(left, middle), right);
+}
+
+inline void remove(root& o, int id1, int id2) {
+  int k1 = rank(o, id1);
+  int k2 = rank(o, id2 + 1);
+  if (k1 >= k2) return;
+
+  root left, middle, right;
+  split(o, k1, left, right);
+  split(right, k2 - k1, middle, right);
+  o = merge(left, right);
+}
+
+inline int query(root& o, int key) {
+  if (o == null) return 0;
+  if (key < o->key) return query(o->lson, key);
+  return std::max(o->key, query(o->rson, key));
+}
+
+root rt;
+void Init() {
+  null = new node();
+  null->key = 0;
+  null->siz = 0;
+  null->lson = NULL;
+  null->rson = NULL;
+
+  nodetop = nodepool;
+  rt = newnode(0);
+  rt->rson = newnode(1000000001);
+}
+
+int N, arg1, arg2, arg3;
+char cmd[20];
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+int main() {
+  Init();
+  N = read();
+  for (int i = 1; i <= N; ++i) {
+    scanf("%s", cmd);
+    arg1 = std::min(std::max(read(), 1), 1000000000);
+    if (cmd[0] == 'D') arg2 = std::min(std::max(read(), 1), 1000000000);
+
+    switch (cmd[0]) {
+    case 'I':
+      insert(rt, arg1);
+      break;
+    case 'Q':
+      printf("%lld\n", query(rt, arg1));
+      break;
+    case 'D':
+      remove(rt, arg1, arg2);
+      break;
+    }
+  }
+  return 0;
+}
+11:T109a,#include <algorithm>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+
+typedef long long LL;
+
+struct node {
+  int key;
+  int siz;
+  int val;
+  int add;
+  LL sum;
+  node* lson;
+  node* rson;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void pushdown() {
+    if (!add) return;
+    lson->update(add);
+    rson->update(add);
+    add = 0;
+  }
+  void update(int add) {
+    if (this->lson == NULL) return;
+    this->add += add;
+    this->val += add;
+    this->sum += (LL)add * this->siz;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+    sum = lson->sum + val + rson->sum;
+  }
+};
+
+typedef node* root;
+typedef std::pair<node*, node*> droot;
+const int MAX_NODES = 200000 + 10;
+
+node* null;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0, int val = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->val = val;
+  nodetop->add = 0;
+  nodetop->sum = val;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+inline int rank(root o, int key) {
+  if (o == null) return 0;
+  if (key == o->key) return o->lson->siz;
+  if (key < o->key) return rank(o->lson, key);
+  return o->lson->siz + 1 + rank(o->rson, key);
+}
+
+inline void insert(root& o, int id, int val) {
+  int k = rank(o, id);
+  root left, right;
+  root middle = newnode(id, val);
+  split(o, k, left, right);
+  o = merge(merge(left, middle), right);
+}
+
+inline void remove(root& o, int id1, int id2) {
+  int k1 = rank(o, id1);
+  int k2 = rank(o, id2 + 1);
+  if (k1 >= k2) return;
+
+  root left, middle, right;
+  split(o, k1, left, right);
+  split(right, k2 - k1, middle, right);
+  o = merge(left, right);
+}
+
+inline void update(root& o, int id1, int id2, int add) {
+  int k1 = rank(o, id1);
+  int k2 = rank(o, id2 + 1);
+  if (k1 >= k2) return;
+
+  splay(o, k1);
+  splay(o->rson, k2 - k1 + 1);
+  o->rson->lson->update(add);
+  o->rson->maintain();
+  o->maintain();
+}
+
+inline LL query(root& o, int id1, int id2) {
+  int k1 = rank(o, id1);
+  int k2 = rank(o, id2 + 1);
+  if (k1 >= k2) return 0;
+
+  splay(o, k1);
+  splay(o->rson, k2 - k1 + 1);
+  return o->rson->lson->sum;
+}
+
+root rt;
+void Init() {
+  null = new node();
+  null->key = 0;
+  null->siz = 0;
+  null->val = 0;
+  null->add = 0;
+  null->sum = 0;
+  null->lson = NULL;
+  null->rson = NULL;
+
+  nodetop = nodepool;
+  rt = newnode(0, 0);
+  rt->rson = newnode(1000000001, 0);
+}
+
+int N, arg1, arg2, arg3;
+char cmd[20];
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+int main() {
+  Init();
+  N = read();
+  for (int i = 1; i <= N; ++i) {
+    scanf("%s", cmd);
+    arg1 = std::min(std::max(read(), 1), 100000000);
+    arg2 = std::min(std::max(read(), 1), 100000000);
+    if (cmd[0] == 'M') arg3 = read();
+
+    switch (cmd[0]) {
+    case 'I':
+      insert(rt, arg1, arg2);
+      break;
+    case 'Q':
+      printf("%lld\n", query(rt, arg1, arg2));
+      break;
+    case 'M':
+      update(rt, arg1, arg2, arg3);
+      break;
+    case 'D':
+      remove(rt, arg1, arg2);
+      break;
+    }
+  }
+  return 0;
+}
+12:Tdd2,#include <bits/stdc++.h>
+
+struct node {
+  int key;
+  int siz;
+  int minv;
+  bool flip;
+  node* lson;
+  node* rson;
+
+  int cmp(int key) {
+    int cnt = lson->siz + 1;
+    if (key == cnt) return -1;
+    return key < cnt ? 0 : 1;
+  }
+  void reverse() {
+    flip ^= 1;
+    std::swap(lson, rson);
+  }
+  void pushdown() {
+    if (!flip) return;
+    lson->reverse();
+    rson->reverse();
+    flip = false;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+    minv = std::min(key, std::min(lson->minv, rson->minv));
+  }
+};
+
+typedef node* root;
+node* null;
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d2 ^ 1);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+inline int kth(root rt) {
+  rt->pushdown();
+  if (rt->key == rt->minv) return rt->lson->siz + 1;
+  if (rt->lson->minv < rt->rson->minv) return kth(rt->lson);
+  return kth(rt->rson) + rt->lson->siz + 1;
+}
+
+const int MAX_NODES = 100000 + 10;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->minv = key;
+  nodetop->flip = false;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void build(root& o, int lft, int rht, int* rank) {
+  int mid = (lft + rht) >> 1;
+  o = newnode(rank[mid]);
+  if (lft < mid) build(o->lson, lft, mid - 1, rank);
+  if (mid < rht) build(o->rson, mid + 1, rht, rank);
+  o->maintain();
+}
+
+const int MAXN = 100000 + 10;
+const int INF = 0x3f3f3f3f;
+int N, A[MAXN], id[MAXN], rank[MAXN];
+root rt;
+
+inline bool cmp(int u, int v) {
+  return A[u] < A[v];
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+inline void init() {
+  nodetop = nodepool;
+}
+
+inline int solve() {
+  int k = kth(rt);
+  splay(rt, k);
+  int ans = rt->lson->siz;
+  if (ans) {
+    rt->lson->reverse();
+    splay(rt->lson, rt->lson->siz);
+    rt = merge(rt->lson, rt->rson);
+  } else
+    rt = rt->rson, rt->pushdown();
+  return ans;
+}
+
+int main() {
+  null = new node();
+  null->key = 0;
+  null->siz = 0;
+  null->minv = INF;
+  null->flip = false;
+  null->lson = NULL;
+  null->rson = NULL;
+
+  while (scanf("%d", &N) == 1 && N) {
+    init();
+    for (int i = 1; i <= N; ++i) A[i] = read();
+    for (int i = 1; i <= N; ++i) id[i] = i;
+    std::stable_sort(id + 1, id + N + 1, cmp);
+    for (int i = 1; i <= N; ++i) rank[id[i]] = i;
+    build(rt, 1, N, rank);
+    for (int i = 1; i < N; ++i) printf("%d ", solve() + i);
+    printf("%d\n", N);
+  }
+  return 0;
+}
+13:Teec,#include <bits/stdc++.h>
+
+struct node {
+  char key;
+  int siz;
+  bool flip;
+  node* lson;
+  node* rson;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void reverse() {
+    flip ^= 1;
+    std::swap(lson, rson);
+  }
+  void pushdown() {
+    if (!flip) return;
+    lson->reverse();
+    rson->reverse();
+    flip ^= 1;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+const int MAX_NODES = (1 << 22) + 10;
+node* null;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(char key) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->flip = false;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+inline void build(root& o, int lft, int rht, char* s) {
+  int mid = (lft + rht) >> 1;
+  o = newnode(s[mid]);
+  if (lft < mid) build(o->lson, lft, mid - 1, s);
+  if (mid < rht) build(o->rson, mid + 1, rht, s);
+  o->maintain();
+}
+
+const int MAXN = (1 << 22) + 10;
+char s[MAXN];
+
+inline void Move(root& rt, int k) {
+  splay(rt, k);
+}
+inline void Insert(root& rt, int n) {
+  for (s[1] = getchar(); s[1] < 32 || s[1] > 126;) s[1] = getchar();
+  for (int i = 2; i <= n; ++i) s[i] = getchar();
+  root left = rt;
+  root middle;
+  build(middle, 1, n, s);
+  root right = rt->rson;
+  rt->rson = null;
+  rt->maintain();
+  rt = merge(left, merge(middle, right));
+}
+inline void Delete(root& rt, int n) {
+  splay(rt->rson, n);
+  rt->rson = rt->rson->rson;
+  rt->maintain();
+}
+inline void Rotate(root& rt, int n) {
+  splay(rt->rson, n + 1);
+  rt->rson->lson->reverse();
+}
+inline void Get(root& rt) {
+  root o = rt->rson;
+  for (; o->lson != null; o = o->lson) o->pushdown();
+  printf("%c\n", o->key);
+}
+inline void Prev(root& rt) {
+  splay(rt, rt->lson->siz);
+}
+inline void Next(root& rt) {
+  splay(rt, rt->lson->siz + 2);
+}
+
+root rt;
+inline void Init() {
+  null = new node();
+  null->key = '\0';
+  null->siz = 0;
+  null->flip = false;
+  null->lson = NULL;
+  null->rson = NULL;
+
+  nodetop = nodepool;
+  rt = newnode(31);
+  rt->rson = newnode(127);
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return s;
+}
+
+char cmd[20];
+
+int main() {
+  Init();
+
+  int N = read();
+  for (int i = 1; i <= N; ++i) {
+    scanf("%s", cmd);
+    switch (cmd[0]) {
+    case 'M':
+      Move(rt, read() + 1);
+      break;
+    case 'I':
+      Insert(rt, read());
+      break;
+    case 'D':
+      Delete(rt, read());
+      break;
+    case 'R':
+      Rotate(rt, read());
+      break;
+    case 'G':
+      Get(rt);
+      break;
+    case 'P':
+      Prev(rt);
+      break;
+    case 'N':
+      Next(rt);
+      break;
+    }
+  }
+  return 0;
+}
+14:T1804,#include <bits/stdc++.h>
+
+const int INF = 0x3f3f3f3f;
+
+struct node {
+  int key;
+  int siz;
+  int setv;   // 懒惰标记，表示是否标记为同一个值
+  int sumv;   // 该节点为根的子树的 $\sum key$
+  int mxlv;   // 该节点为根的子树表示的序列左侧（可以为空）最大连续和
+  int mxmv;   // 该节点为根的子树最大连续和
+  int mxrv;   // 该节点为根的子树表示的序列右侧（可以为空）最大连续和
+  bool flip;   // 懒惰标记，表示是否翻转
+  node* lson;
+  node* rson;
+
+  static node* null;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void reverse() {
+    flip ^= 1;
+    std::swap(lson, rson);
+    std::swap(mxlv, mxrv);
+  }
+  void update(int tag) {
+    setv = tag;
+    key = tag;
+    sumv = tag * siz;
+    mxlv = mxrv = tag > 0 ? sumv : 0;
+    mxmv = tag > 0 ? sumv : tag;
+  }
+  void pushdown() {
+    if (flip) {
+      lson->reverse();
+      rson->reverse();
+      flip = false;
+    }
+    if (setv != -INF) {
+      if (lson != null) lson->update(setv);
+      if (rson != null) rson->update(setv);
+      setv = -INF;
+    }
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+    sumv = lson->sumv + key + rson->sumv;
+    mxlv = std::max(lson->mxlv, lson->sumv + key + rson->mxlv);
+    mxrv = std::max(rson->mxrv, lson->mxrv + key + rson->sumv);
+    mxmv = std::max(lson->mxmv, rson->mxmv);
+    mxmv = std::max(mxmv, lson->mxrv + key + rson->mxlv);
+  }
+};
+
+typedef node* root;
+node* node::null = new node();
+
+inline void printtree(root o, int cur = 0) {
+  if (o == node::null) return;
+  o->pushdown();
+  o->maintain();
+  printtree(o->lson, cur + 1);
+  printf("cur %d: key=%d, siz=%d, sum=%d\n", cur, o->key, o->siz, o->sumv);
+  printtree(o->rson, cur + 1);
+  if (!cur) printf("-------------------------------------\n");
+}
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = node::null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+/********************** 以上为 splay 基本操作 *******************/
+
+const int MAX_NODES = 1000000 + 10;
+std::queue<root> Qnodepool;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  root nodetop = Qnodepool.front();
+  Qnodepool.pop();
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->setv = -INF;
+  nodetop->sumv = key;
+  nodetop->mxlv = key > 0 ? key : 0;
+  nodetop->mxmv = key;
+  nodetop->mxrv = key > 0 ? key : 0;
+  nodetop->flip = false;
+  nodetop->lson = node::null;
+  nodetop->rson = node::null;
+  return nodetop;
+}
+
+inline void deletenode(root o) {
+  if (o == node::null) return;
+  deletenode(o->lson);
+  deletenode(o->rson);
+  Qnodepool.push(o);
+}
+
+inline void build(root& o, int lft, int rht, int* A) {
+  int mid = (lft + rht) >> 1;
+  o = newnode(A[mid]);
+  if (lft < mid) build(o->lson, lft, mid - 1, A);
+  if (mid < rht) build(o->rson, mid + 1, rht, A);
+  if (A[mid] == -INF) o->sumv = 0;
+  o->maintain();
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+const int MAXN = 500000 + 10;
+int A[MAXN];
+root rt;
+
+inline void INSERT(int pos, int tot) {
+  for (int i = 1; i <= tot; ++i) A[i] = read();
+  root left, middle, right;
+  build(middle, 1, tot, A);
+  split(rt, pos + 1, left, right);
+  rt = merge(merge(left, middle), right);
+}
+
+inline void DELETE(int pos, int tot) {
+  splay(rt, pos);
+  splay(rt->rson, tot + 1);
+
+  deletenode(rt->rson->lson);
+
+  rt->rson->lson = node::null;
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+inline void MODIFY(int pos, int tot, int tag) {
+  splay(rt, pos);
+  splay(rt->rson, tot + 1);
+  rt->rson->lson->update(tag);
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+inline void REVERSE(int pos, int tot) {
+  splay(rt, pos);
+  splay(rt->rson, tot + 1);
+  rt->rson->lson->reverse();
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+inline int GETSUM(int pos, int tot) {
+  splay(rt, pos);
+  splay(rt->rson, tot + 1);
+  return rt->rson->lson->sumv;
+}
+
+inline int MAXSUM() {
+  return rt->mxmv;
+}
+
+inline void init() {
+  while (!Qnodepool.empty()) Qnodepool.pop();
+  for (int i = 0; i < MAX_NODES; ++i) Qnodepool.push(nodepool + i);
+  node::null->key = -INF;
+  node::null->siz = 0;
+  node::null->setv = -INF;
+  node::null->sumv = 0;
+  node::null->mxlv = 0;
+  node::null->mxmv = -INF;
+  node::null->mxrv = 0;
+  node::null->flip = false;
+  node::null->lson = NULL;
+  node::null->rson = NULL;
+}
+
+int main() {
+  init();
+
+  int N = read();
+  int Q = read();
+
+  for (int i = 1; i <= N; ++i) A[i] = read();
+  A[0] = A[N + 1] = -INF;
+  build(rt, 0, N + 1, A);
+  while (Q--) {
+    char cmd[20];
+    scanf("%s", cmd);
+    if (cmd[0] == 'M' && cmd[2] == 'X') {
+      printf("%d\n", MAXSUM());
+      continue;
+    }
+
+    int arg1 = read();
+    int arg2 = read();
+
+    switch (cmd[0]) {
+    case 'I':
+      INSERT(arg1, arg2);
+      break;
+    case 'D':
+      DELETE(arg1, arg2);
+      break;
+    case 'M':
+      MODIFY(arg1, arg2, read());
+      break;
+    case 'R':
+      REVERSE(arg1, arg2);
+      break;
+    case 'G':
+      printf("%d\n", GETSUM(arg1, arg2));
+      break;
+    }
+  }
+
+  return 0;
+}
+15:Tf2e,#include <bits/stdc++.h>
+
+struct node {
+  int key;
+  int siz;
+  int addv;
+  node* lson;
+  node* rson;
+
+  static node* null;
+
+  int cmp(int s) {
+    int cnt = lson->siz + 1;
+    if (s == cnt) return -1;
+    return s < cnt ? 0 : 1;
+  }
+  void update(int v) {
+    key += v;
+    addv += v;
+  }
+  void pushdown() {
+    if (!addv) return;
+    if (lson != null) lson->update(addv);
+    if (rson != null) rson->update(addv);
+    addv = 0;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void printtree(root o, int cur = 0) {
+  if (o == node::null) return;
+  printtree(o->lson, cur + 1);
+  printf("cur %d: key=%d, siz=%d\n", cur, o->key, o->siz);
+  printtree(o->rson, cur + 1);
+  if (!cur) printf("---------------------------------\n");
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline int kth(root o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == -1) return o->key;
+  return d ? kth(o->rson, k - o->lson->siz - 1) : kth(o->lson, k);
+}
+
+inline int rank(root o, int k) {
+  if (o == node::null) return 0;
+  o->pushdown();
+  if (k <= o->key) return rank(o->lson, k);
+  return rank(o->rson, k) + o->lson->siz + 1;
+}
+
+const int MAX_NODES = 100000 + 10;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->addv = 0;
+  nodetop->lson = node::null;
+  nodetop->rson = node::null;
+  return nodetop++;
+}
+
+inline void insert(root& rt, int key) {
+  int k = rank(rt, key);
+  splay(rt, k);
+  root left = rt;
+  root middle = newnode(key);
+  root right = rt->rson;
+  left->rson = middle;
+  middle->rson = right;
+  middle->maintain();
+  left->maintain();
+  rt = left;
+}
+
+inline void remove(root& rt, int M) {
+  int k = rank(rt, M);
+  if (k == 1) return;
+  splay(rt, 1);
+  splay(rt->rson, k);
+  rt->rson->lson = node::null;
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+inline void update(root& rt, int addv) {
+  if (rt->siz == 2) return;
+  splay(rt, 1);
+  splay(rt->rson, rt->rson->siz);
+  rt->rson->lson->update(addv);
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+const int INF = 0x3f3f3f3f;
+root rt;
+
+node* node::null = new node();
+inline void init() {
+  node::null->key = 0;
+  node::null->siz = 0;
+  node::null->addv = 0;
+  node::null->lson = NULL;
+  node::null->rson = NULL;
+
+  nodetop = nodepool;
+  rt = newnode(-INF);
+  rt->rson = newnode(INF);
+  rt->maintain();
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+int main() {
+  init();
+
+  int N = read();
+  int M = read();
+  int tot = 2;
+  for (int i = 1; i <= N; ++i) {
+    char cmd[20];
+    scanf("%s", cmd);
+    int arg = read();
+
+    switch (cmd[0]) {
+    case 'I':
+      if (arg >= M) insert(rt, arg), ++tot;
+      break;
+    case 'A':
+      update(rt, arg);
+      break;
+    case 'S':
+      update(rt, -arg);
+      remove(rt, M);
+      break;
+    case 'F':
+      printf("%d\n", arg <= rt->siz - 2 ? kth(rt, rt->siz - arg) : -1);
+      break;
+    }
+  }
+  printf("%d\n", tot - rt->siz);
+
+  return 0;
+}
+16:Td58,#include <bits/stdc++.h>
+
+struct node {
+  int key;
+  int siz;
+  bool flip;
+  node* prev;
+  node* lson;
+  node* rson;
+
+  void reverse() {
+    flip ^= 1;
+    std::swap(lson, rson);
+  }
+  void pushdown() {
+    if (!flip) return;
+    lson->reverse();
+    rson->reverse();
+    flip = false;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson->prev = o;
+  k->lson = o;
+  o->prev = k;
+  o = k;
+}
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson->prev = o;
+  k->rson = o;
+  o->prev = k;
+  o = k;
+}
+// 带父指针的 旋转 和 伸展操作 是此问题最大的难点（蒽，被刘汝佳的代码惯坏了。。
+inline void rotate(root o, int d) {
+  int d2 = -1;
+  root p = o->prev;
+  if (p != NULL) d2 = p->lson == o ? 0 : 1;
+  d ? zig(o) : zag(o);
+  if (d2 != -1) d2 ? p->rson = o : p->lson = o;
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->prev = p;
+  o->maintain();
+}
+
+// 注意，d 必须在 pushdown 之后计算，因为有交换子树的操作。
+inline void splay(root o, root f) {
+  // o 必须先 pushdown() 一次，因为可能 o 已经是 f 的子节点，
+  // 但为了保持 “splay 操作后的根节点标记全部下传” 的传统，需要这么做。
+  for (o->pushdown(); o->prev != f;) {
+    root p = o->prev;
+    if (p->prev == f) {
+      p->pushdown();
+      o->pushdown();
+      int d = p->lson == o ? 0 : 1;
+      rotate(p, d ^ 1);
+      break;
+    }
+
+    root g = p->prev;
+    g->pushdown();
+    p->pushdown();
+    o->pushdown();
+    int d = p->lson == o ? 0 : 1;
+    int d2 = g->lson == p ? 0 : 1;
+    if (d == d2)
+      rotate(g, d2 ^ 1), rotate(p, d ^ 1);
+    else
+      rotate(p, d ^ 1), rotate(g, d2 ^ 1);
+  }
+}
+
+const int MAX_NODES = 100000 + 10;
+node* null;
+node nodepool[MAX_NODES];
+
+inline void build(root& o, int lft, int rht) {
+  int mid = (lft + rht) >> 1;
+  o = nodepool + mid;
+  o->key = mid;
+  o->siz = 1;
+  o->flip = false;
+  if (lft < mid)
+    build(o->lson, lft, mid - 1);
+  else
+    o->lson = null;
+  if (mid < rht)
+    build(o->rson, mid + 1, rht);
+  else
+    o->rson = null;
+  o->lson->prev = o;
+  o->rson->prev = o;
+  o->maintain();
+}
+
+inline int solve(root& rt, int key) {
+  root o = nodepool + key;
+  splay(o, rt->prev);
+  int ans = o->lson->siz;
+  if (ans) {
+    root k = o->lson;
+    k->reverse();
+    for (; k->rson != null; k = k->rson) k->pushdown();
+    splay(k, o);
+    k->rson = o->rson;
+    o->rson->prev = k;
+    o = k;
+  } else
+    o = o->rson;
+  rt = o;
+  rt->prev = NULL;
+  rt->maintain();
+  return ans;
+}
+
+typedef std::pair<int, int> pii;
+const int MAXN = 100000 + 10;
+
+root rt;
+pii A[MAXN];
+int N;
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = true;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+inline void Init() {
+  for (int i = 1; i <= N; ++i) A[i] = pii(read(), i);
+  sort(A + 1, A + N + 1);
+  build(rt, 1, N);
+  rt->prev = NULL;
+}
+
+int main() {
+  null = new node();
+  null->key = 0;
+  null->siz = 0;
+  null->flip = false;
+  null->lson = NULL;
+  null->rson = NULL;
+
+  while (scanf("%d", &N) == 1 && N) {
+    Init();
+    for (int i = 1; i < N; ++i) printf("%d ", solve(rt, A[i].second) + i);
+    printf("%d\n", N);
+  }
+  return 0;
+}
+17:Ta4c,#include <algorithm>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+
+struct node {
+  int key;
+  int siz;
+  node* lson;
+  node* rson;
+
+  static node* null;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+
+inline void zag(root& o) {
+  root k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+
+inline void zig(root& o) {
+  root k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = node::null;
+  o->maintain();
+}
+
+const int MAX_NODES = 200000 + 10;
+
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 0;
+  nodetop->lson = node::null;
+  nodetop->rson = node::null;
+  return nodetop++;
+}
+
+inline void insert(root& rt, int pos, int key) {
+  root left, right;
+  split(rt, pos + 1, left, right);
+  left->rson = newnode(key);
+  left->rson->rson = right;
+  left->rson->maintain();
+  left->maintain();
+  rt = left;
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+inline void print(int s) {
+  if (s > 9) print(s / 10);
+  putchar(s % 10 + '0');
+}
+
+node* node::null = new node();
+root rt;
+int N;
+
+inline void init() {
+  node::null->key = 0;
+  node::null->siz = 0;
+  node::null->lson = NULL;
+  node::null->rson = NULL;
+}
+
+inline void printtree(root& o) {
+  if (o == node::null) return;
+  printtree(o->lson);
+  print(o->key);
+  putchar(' ');
+  printtree(o->rson);
+}
+
+int main() {
+  init();
+  while (scanf("%d", &N) == 1) {
+    nodetop = nodepool;
+    rt = newnode(0);
+    for (int i = 1; i <= N; ++i) {
+      int arg1 = read();
+      int arg2 = read();
+      insert(rt, arg1, arg2);
+    }
+    splay(rt, 1);
+    printtree(rt->rson);
+    printf("\n");
+  }
+  return 0;
+}
+18:T545,#include <algorithm>
+#include <cstdio>
+#include <cstring>
+#include <iostream>
+#define lc (o << 1)
+#define rc (o << 1 | 1)
+#define lson lc, lft, mid
+#define rson rc, mid + 1, rht
+#define MID(lft, rht) (lft + rht >> 1)
+
+const int MAXN = 200000 + 10;
+
+int sumv[MAXN << 2], ans[MAXN], pos[MAXN], val[MAXN], N;
+void build(int o, int lft, int rht) {
+  sumv[o] = rht - lft + 1;
+  if (lft == rht) return;
+  int mid = MID(lft, rht);
+  build(lson);
+  build(rson);
+}
+
+void query(int o, int lft, int rht, int pos, int val) {
+  --sumv[o];
+  if (lft == rht)
+    ans[lft] = val;
+  else {
+    int mid = MID(lft, rht);
+    if (pos <= sumv[lc])
+      query(lson, pos, val);
+    else
+      query(rson, pos - sumv[lc], val);
+  }
+}
+
+inline int read() {
+  bool positive = true;
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    if (c == '-') positive = false;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return positive ? s : -s;
+}
+
+inline void print(int s) {
+  if (s > 9) print(s / 10);
+  putchar(s % 10 + '0');
+}
+
+int main() {
+  while (scanf("%d", &N) == 1) {
+    build(1, 1, N);
+    for (int i = 1; i <= N; ++i) pos[i] = read() + 1, val[i] = read();
+    for (int i = N; i; --i) query(1, 1, N, pos[i], val[i]);
+    for (int i = 1; i <= N; ++i) print(ans[i]), putchar(' ');
+    putchar('\n');
+  }
+  return 0;
+}
+19:Taa7,#include <bits/stdc++.h>
+using namespace std;
+
+struct node {
+  int key;
+  int siz;
+  bool flip;
+  node* lson;
+  node* rson;
+  node(int key = 0) : key(key), siz(0), flip(0), lson(NULL), rson(NULL) {
+  }
+  int cmp(int key) {
+    int cnt = lson->siz + 1;
+    if (key == cnt) return -1;
+    return key < cnt ? 0 : 1;
+  }
+  void pushdown() {
+    if (!flip) return;
+    lson->flip ^= 1;
+    rson->flip ^= 1;
+    swap(lson, rson);
+    flip = false;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+  }
+};
+
+typedef node* root;
+typedef pair<node*, node*> droot;
+const int MAX_NODES = 100000 + 10;
+node* null = new node();
+
+node nodepool[MAX_NODES];
+node* nodetop;
+
+inline node* newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->flip = false;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void zag(root& o) {
+  node* k = o->rson;
+  o->rson = k->lson;
+  k->lson = o;
+  o = k;
+}
+inline void zig(root& o) {
+  node* k = o->lson;
+  o->lson = k->rson;
+  k->rson = o;
+  o = k;
+}
+inline void rotate(root& o, int d) {
+  d ? zig(o) : zag(o);
+  d ? o->rson->maintain() : o->lson->maintain();
+  o->maintain();
+}
+
+inline void splay(root& o, int k) {
+  o->pushdown();
+  int d = o->cmp(k);
+  if (d == 1) k -= o->lson->siz + 1;
+  if (d != -1) {
+    root& p = d ? o->rson : o->lson;
+    p->pushdown();
+    int d2 = p->cmp(k);
+    if (d2 == 1) k -= p->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? p->rson : p->lson), k);
+      if (d == d2)
+        rotate(o, d ^ 1);
+      else
+        rotate(p, d);
+    }
+    rotate(o, d ^ 1);
+  }
+}
+
+inline void split(root o, int k, root& left, root& right) {
+  splay(o, k);
+  left = o;
+  right = o->rson;
+  o->rson = null;
+  o->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->pushdown();
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+inline void build(root& o, int lft, int rht) {
+  int mid = (lft + rht) >> 1;
+  o = newnode(mid);
+  if (lft < mid) build(o->lson, lft, mid - 1);
+  if (mid < rht) build(o->rson, mid + 1, rht);
+  o->maintain();
+}
+
+inline void print(root& o) {
+  if (o == null) return;
+  o->pushdown();
+  if (o->lson != null) print(o->lson);
+  if (o->key) printf("%d\n", o->key);
+  if (o->rson != null) print(o->rson);
+}
+
+root rt;
+inline void init(int N) {
+  nodetop = nodepool;
+  build(rt, 0, N);
+}
+
+int main() {
+  int N, Q;
+  while (scanf("%d%d", &N, &Q) == 2) {
+    init(N);
+    while (Q--) {
+      int lft, rht;
+      root o, left, middle, right;
+      scanf("%d%d", &lft, &rht);
+      split(rt, lft, left, o);
+      split(o, rht - lft + 1, middle, right);
+      middle->flip ^= 1;
+      rt = merge(merge(left, right), middle);
+    }
+    print(rt);
+  }
+  return 0;
+}
+1a:T112c,#include <bits/stdc++.h>
+using namespace std;
+
+typedef unsigned long long ULL;
+const int MAXN = 400000 + 10;
+const int hashkey = 137;
+
+ULL xp[MAXN];
+
+struct node {
+  int key;
+  int siz;
+  ULL val;
+  ULL reval;
+  bool flip;
+  node* lson;
+  node* rson;
+
+  int cmp(int x) {
+    int cnt = lson->siz + 1;
+    if (x == cnt) return -1;
+    return x < cnt ? 0 : 1;
+  }
+  void reverse() {
+    flip ^= 1;
+    swap(lson, rson);
+    swap(val, reval);
+  }
+  void pushdown() {
+    if (!flip) return;
+    lson->reverse();
+    rson->reverse();
+    flip = false;
+  }
+  void maintain() {
+    siz = lson->siz + 1 + rson->siz;
+    val = lson->val + key * xp[lson->siz] + rson->val * xp[lson->siz + 1];
+    reval = rson->reval + key * xp[rson->siz] + lson->reval * xp[rson->siz + 1];
+  }
+};
+
+typedef node* root;
+typedef pair<node*, node*> droot;
+const int MAX_NODES = 400000 + 10;
+
+node* null;
+node* nodetop;
+node nodepool[MAX_NODES];
+
+inline root newnode(int key = 0) {
+  nodetop->key = key;
+  nodetop->siz = 1;
+  nodetop->val = 0;
+  nodetop->reval = 0;
+  nodetop->flip = false;
+  nodetop->lson = null;
+  nodetop->rson = null;
+  return nodetop++;
+}
+
+inline void zag(root& rt) {
+  root k = rt->rson;
+  rt->rson = k->lson;
+  k->lson = rt;
+  rt = k;
+}
+inline void zig(root& rt) {
+  root k = rt->lson;
+  rt->lson = k->rson;
+  k->rson = rt;
+  rt = k;
+}
+inline void rotate(root& rt, int d) {
+  d ? zig(rt) : zag(rt);
+  d ? rt->rson->maintain() : rt->lson->maintain();
+  rt->maintain();
+}
+
+inline void splay(root& rt, int k) {
+  rt->pushdown();
+  int d = rt->cmp(k);
+  if (d == 1) k -= rt->lson->siz + 1;
+  if (d != -1) {
+    root& pt = d ? rt->rson : rt->lson;
+    pt->pushdown();
+    int d2 = pt->cmp(k);
+    if (d2 == 1) k -= pt->lson->siz + 1;
+    if (d2 != -1) {
+      splay((d2 ? pt->rson : pt->lson), k);
+      if (d == d2)
+        rotate(rt, d ^ 1);
+      else
+        rotate(pt, d);
+    }
+    rotate(rt, d ^ 1);
+  }
+}
+
+inline void split(root rt, int k, root& left, root& right) {
+  splay(rt, k);
+  left = rt;
+  right = rt->rson;
+  rt->rson = null;
+  rt->maintain();
+}
+
+inline root merge(root left, root right) {
+  splay(left, left->siz);
+  left->rson = right;
+  left->maintain();
+  return left;
+}
+
+/* insert at (k+1)th position. */
+inline void insert(root& rt, int k, int key) {
+  root left, right;
+  root middle = newnode(key);
+  split(rt, k, left, right);
+  rt = merge(merge(left, middle), right);
+}
+
+/* remove at (k+1)th position. */
+inline void remove(root& rt, int k) {
+  root left, middle, right;
+  split(rt, k, left, right);
+  split(right, 1, middle, right);
+  rt = merge(left, right);
+}
+
+/* modify [lft+1, rht+1]. */
+inline void update(root& rt, int lft, int rht) {
+  splay(rt, lft);
+  splay(rt->rson, rht - lft + 2);
+  rt->rson->lson->reverse(); /* update rt->rson->lson, rt->rson, rt */
+  rt->rson->maintain();
+  rt->maintain();
+}
+
+inline int query(root& rt, int p1, int p2) {
+  int lft = 0, rht = rt->siz - p2;
+  while (lft < rht) {
+    int mid = (lft + rht) >> 1;
+    splay(rt, p1);
+    splay(rt->rson, mid + 1);
+    ULL val1 = rt->rson->lson->val;
+    splay(rt, p2);
+    splay(rt->rson, mid + 1);
+    ULL val2 = rt->rson->lson->val;
+    if (val1 == val2)
+      lft = mid + 1;
+    else
+      rht = mid;
+  }
+  return lft - 1;
+}
+
+root rt;
+char s[MAXN];
+int N, Q, op, arg1, arg2;
+
+inline void build(root& rt, int lft, int rht) {
+  int mid = (lft + rht) >> 1;
+  rt = newnode(s[mid] - '0');
+  if (lft < mid) build(rt->lson, lft, mid - 1);
+  if (mid < rht) build(rt->rson, mid + 1, rht);
+  rt->maintain();
+}
+
+inline void Init() {
+  nodetop = nodepool;
+  scanf("%s", s + 1);
+  s[0] = s[N + 1] = '0';
+  build(rt, 0, N + 1);
+}
+
+inline int read() {
+  char c = getchar();
+  int s = 0;
+  for (; c < '0' || c > '9'; c = getchar())
+    ;
+  for (; c >= '0' && c <= '9'; c = getchar()) s = s * 10 + c - '0';
+  return s;
+}
+
+int main() {
+  null = new node();
+  memset(null, 0, sizeof(node));
+  xp[0] = 1;
+  for (int i = 1; i < MAXN; ++i) xp[i] = xp[i - 1] * hashkey;
+
+  while (scanf("%d%d", &N, &Q) == 2) {
+    Init();
+    while (Q--) {
+      op = read();
+      arg1 = read();
+      if (op != 2) arg2 = read();
+      switch (op) {
+      case 1:
+        insert(rt, arg1 + 1, arg2);
+        break;
+      case 2:
+        remove(rt, arg1);
+        break;
+      case 3:
+        update(rt, arg1, arg2);
+        break;
+      case 4:
+        printf("%d\n", query(rt, arg1, arg2));
+        break;
+      }
+    }
+  }
+  return 0;
+}
+2:["$","$Le",null,{"data":{"title":"伸展树专题","titleAst":{"type":"paragraph","children":[{"type":"text","value":"伸展树专题"}]},"slug":"/post/data-structure/bbst/splay","createdAt":"Jul 03, 2016","updatedAt":"Oct 06, 2022","timeToRead":"06min 20s","tags":"$f","categories":[],"ast":{"type":"root","children":[{"type":"heading","depth":2,"children":[{"type":"text","value":"题目"}],"identifier":"heading-题目"},{"type":"heading","depth":3,"children":[{"type":"text","value":"hihoCoder/1329"}],"identifier":"heading-hihocoder-1329"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-hiho-coder-1329","label":"problem-hiho-coder-1329","referenceType":"full","children":[{"type":"text","value":"hihoCoder/1329 平衡树 Splay"}]}]},{"type":"paragraph","children":[{"type":"text","value":"基础题。"}]},{"type":"code","lang":"cpp","meta":"title=\"hihocoder-1329.cpp\" sourcefile=\"./hihocoder-1329.cpp\" maxlines=\"20\" collapsed linenos","value":"$10"},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"hihoCoder/1333"}],"identifier":"heading-hihocoder-1333"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-hiho-coder-1333","label":"problem-hiho-coder-1333","referenceType":"full","children":[{"type":"text","value":"hihoCoder/1333 平衡树 Splay2"}]}]},{"type":"paragraph","children":[{"type":"text","value":"节点中维护 "},{"type":"inlineCode","value":"add"},{"type":"text","value":"，"},{"type":"inlineCode","value":"sum"},{"type":"text","value":"，"},{"type":"inlineCode","value":"key"},{"type":"text","value":"，"},{"type":"inlineCode","value":"siz"},{"type":"text","value":"，"},{"type":"inlineCode","value":"val"},{"type":"text","value":"；其中"}]},{"type":"list","ordered":false,"marker":45,"spread":false,"children":[{"type":"listItem","children":[{"type":"inlineCode","value":"key"},{"type":"text","value":" 为每个人的 "},{"type":"inlineCode","value":"id"}]},{"type":"listItem","children":[{"type":"inlineCode","value":"val"},{"type":"text","value":" 为每个人的兴趣值"}]}]},{"type":"paragraph","children":[{"type":"text","value":"在进行区间操作时，利用 "},{"type":"inlineCode","value":"key"},{"type":"text","value":"，计算出左右区间在 Splay 中的名次，然后使用该名次加上基础 Splay 操作就可以了。"}]},{"type":"code","lang":"cpp","meta":"title=\"hihocoder-1333.cpp\" sourcefile=\"./hihocoder-1333.cpp\" maxlines=\"20\" collapsed linenos","value":"$11"},{"type":"thematicBreak"},{"type":"paragraph","children":[{"type":"text","value":"法二：将原序列离散化到 "},{"type":"inlineMath","value":"1 \\sim N"},{"type":"text","value":"，并建成 Splay，多维护一个区间最小值，利用维护的 "},{"type":"inlineCode","value":"siz"},{"type":"text","value":"，就可以实现名次树的一些功能，就可以快速查找了。"}]},{"type":"code","lang":"cpp","meta":"title=\"LA-3961_2.cpp\" sourcefile=\"./LA-3961_2.cpp\" maxlines=\"20\" collapsed linenos","value":"$12"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"Update time: 2016/07/06"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"HYSBZ/1269"}],"identifier":"heading-hysbz-1269"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-hysbz-1269","label":"problem-hysbz-1269","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1269 文本编辑器 editor"}]}]},{"type":"paragraph","children":[{"type":"text","value":"都是一些 Splay 的经典操作，为了方便操作，在最最左边和最右边分别加了一个虚拟节点。"}]},{"type":"code","lang":"cpp","meta":"title=\"hysbz-1269.cpp\" sourcefile=\"./hysbz-1269.cpp\" maxlines=\"20\" collapsed linenos","value":"$13"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"Update time: 2016/07/05"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"HYSBZ/1500"}],"identifier":"heading-hysbz-1500"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-hysbz-1500","label":"problem-hysbz-1500","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1500 维修数列"}]}]},{"type":"paragraph","children":[{"type":"text","value":"前五个操作比较简单，第六个操作，需要维护："}]},{"type":"list","ordered":false,"marker":45,"spread":false,"children":[{"type":"listItem","children":[{"type":"text","value":"子树左侧起最大连续和 "},{"type":"inlineMath","value":"mxlv"},{"type":"text","value":"（可以为空）"}]},{"type":"listItem","children":[{"type":"text","value":"子树右侧起最大连续和 "},{"type":"inlineMath","value":"mxrv"},{"type":"text","value":"（可以为空）"}]},{"type":"listItem","children":[{"type":"text","value":"子树中最大连续和 "},{"type":"inlineMath","value":"mxmv"},{"type":"text","value":"（非空）。"}]}]},{"type":"paragraph","children":[{"type":"text","value":"在序列的最左侧和最右侧增加两个虚拟节点就可以很方便了，注意为了不影响结果的正确性，虚拟节点的 sum 值需为 "},{"type":"inlineMath","value":"0"},{"type":"text","value":"，但是节点的 "},{"type":"inlineMath","value":"key,mxlv,mxmv,mxrv"},{"type":"text","value":" 均需设成负无穷。"}]},{"type":"code","lang":"cpp","meta":"title=\"hysbz-1500.cpp\" sourcefile=\"./hysbz-1500.cpp\" maxlines=\"20\" collapsed linenos","value":"$14"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"update time: 2016/07/07"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"HYSBZ/1503"}],"identifier":"heading-hysbz-1503"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-hysbz-1503","label":"problem-hysbz-1503","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1503 郁闷的出纳员"}]}]},{"type":"paragraph","children":[{"type":"text","value":"只需要用 Splay 实现名次树即可。注意由于存在懒惰标记，在查询第 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 大，及确定有多少个值比 "},{"type":"inlineMath","value":"key"},{"type":"text","value":" 小，这两个操作的过程中都要一路 "},{"type":"inlineMath","value":"pushdown"},{"type":"text","value":"。"}]},{"type":"admonition","keyword":"tip","title":[{"type":"text","value":"HINT"}],"children":[{"type":"paragraph","children":[{"type":"text","value":"坑点：立即离开公司的人不算入答案。。。"}]}]},{"type":"code","lang":"cpp","meta":"title=\"hysbz-1503.cpp\" sourcefile=\"./hysbz-1503.cpp\" maxlines=\"20\" collapsed linenos","value":"$15"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"Update time: 2016/07/07"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"LA/3961"}],"identifier":"heading-la-3961"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-la-3961","label":"problem-la-3961","referenceType":"full","children":[{"type":"text","value":"LA/3961 Robotic Sort"}]}]},{"type":"paragraph","children":[{"type":"text","value":"初始时，建一棵 "},{"type":"inlineMath","value":"1 \\sim N"},{"type":"text","value":" 的 Splay，并对原序列进行排序（排序规则为：值小的优先，值相等时，在原序列靠左的优先）。对于第 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 次询问，将值为 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 的节点伸展至根，然后就是些基础的操作了。问题的难点在于快速找到值为 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 的节点。"}]},{"type":"paragraph","children":[{"type":"text","value":"法一：用一个父指针，直接从值为 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 的节点往上伸展就好了。之所以扯这么多，是因为此前一直都是用 刘汝佳 的递归写法（被惯坏了），不需要父指针。"}]},{"type":"code","lang":"cpp","meta":"title=\"LA-3961.cpp\" sourcefile=\"./LA-3961.cpp\" maxlines=\"20\" collapsed linenos","value":"$16"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"Update time: 2016/07/05"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"POJ/2828"}],"identifier":"heading-poj-2828"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-poj-2828","label":"problem-poj-2828","referenceType":"full","children":[{"type":"text","value":"POJ/2828 Buy Tickets"}]}]},{"type":"paragraph","children":[{"type":"text","value":"法一：在线做。直接 Splay 模拟，容易超时，可以检验自己 Splay 写法常数大不大（不加读入读出优化的前提下）。"}]},{"type":"admonition","keyword":"tip","title":[{"type":"text","value":"HINT"}],"children":[{"type":"paragraph","children":[{"type":"text","value":"POJ 加读入读出优化能快很多 = ="}]}]},{"type":"code","lang":"cpp","meta":"title=\"poj-2828.cpp\" sourcefile=\"./poj-2828.cpp\" maxlines=\"20\" collapsed linenos","value":"$17"},{"type":"paragraph","children":[{"type":"text","value":"法二：离线做。类似约瑟夫问题的线段树写法。初始时，维护一个前缀和\n"},{"type":"inlineMath","value":"\\displaystyle sum(N)=\\sum_{i=1}^N i"},{"type":"text","value":"；最后一个人的最终位置显然是 "},{"type":"inlineMath","value":"pos+1"},{"type":"text","value":"，然后去掉这个人，那么倒数第二个人就成了最后一个人了。"}]},{"type":"code","lang":"cpp","meta":"title=\"poj-2828_2.cpp\" sourcefile=\"./poj-2828_2.cpp\" maxlines=\"20\" collapsed linenos","value":"$18"},{"type":"paragraph","children":[{"type":"strong","children":[{"type":"text","value":"Update time: 2016/07/07"}]}]},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"UVA/11922"}],"identifier":"heading-uva-11922"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-uva-11922","label":"problem-uva-11922","referenceType":"full","children":[{"type":"text","value":"UVA/11922 Permutation Transformer"}]}]},{"type":"paragraph","children":[{"type":"text","value":"基础题。"}]},{"type":"code","lang":"cpp","meta":"title=\"uva-11922.cpp\" sourcefile=\"./uva-11922.cpp\" maxlines=\"20\" collapsed linenos","value":"$19"},{"type":"thematicBreak"},{"type":"heading","depth":3,"children":[{"type":"text","value":"UVA/11996"}],"identifier":"heading-uva-11996"},{"type":"paragraph","children":[{"type":"text","value":"题目链接： "},{"type":"linkReference","identifier":"problem-uva-11996","label":"problem-uva-11996","referenceType":"full","children":[{"type":"text","value":"UVA/11996 Jewel Magic"}]}]},{"type":"paragraph","children":[{"type":"text","value":"用 hash 求 LCP，则仅需用 Splay 维护 hash 值即可。考虑到用反转操作，每个节点需要维护正反两个 hash 值。"}]},{"type":"code","lang":"cpp","meta":"title=\"uva-11996.cpp\" sourcefile=\"./uva-11996.cpp\" maxlines=\"20\" collapsed linenos","value":"$1a"},{"type":"heading","depth":2,"children":[{"type":"text","value":"Summary"}],"identifier":"heading-summary"},{"type":"table","columns":[{"align":"center"},{"align":"center"},{"align":"center"}],"children":[{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"text","value":"Problems"}]},{"type":"tableCell","children":[{"type":"text","value":"Category"}]},{"type":"tableCell","children":[{"type":"text","value":"solution"}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-hiho-coder-1329","label":"problem-hiho-coder-1329","referenceType":"full","children":[{"type":"text","value":"hihoCoder/1329"}]}]},{"type":"tableCell","children":[{"type":"text","value":"基础题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-hiho-coder-1329","label":"solution-hiho-coder-1329","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-hiho-coder-1329","label":"code-hiho-coder-1329","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-hiho-coder-1333","label":"problem-hiho-coder-1333","referenceType":"full","children":[{"type":"text","value":"hihoCoder/1333"}]}]},{"type":"tableCell","children":[{"type":"text","value":"初级题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-hiho-coder-1333","label":"solution-hiho-coder-1333","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-hiho-coder-1333","label":"code-hiho-coder-1333","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-hysbz-1269","label":"problem-hysbz-1269","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1269"}]}]},{"type":"tableCell","children":[{"type":"text","value":"经典题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-hysbz-1269","label":"solution-hysbz-1269","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-hysbz-1269","label":"code-hysbz-1269","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-hysbz-1500","label":"problem-hysbz-1500","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1500"}]}]},{"type":"tableCell","children":[{"type":"text","value":"经典题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-hysbz-1500","label":"solution-hysbz-1500","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-hysbz-1500","label":"code-hysbz-1500","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-hysbz-1503","label":"problem-hysbz-1503","referenceType":"full","children":[{"type":"text","value":"HYSBZ/1503"}]}]},{"type":"tableCell","children":[{"type":"text","value":"初级题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-hysbz-1503","label":"solution-hysbz-1503","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-hysbz-1503","label":"code-hysbz-1503","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-la-3961","label":"problem-la-3961","referenceType":"full","children":[{"type":"text","value":"LA/3961"}]}]},{"type":"tableCell","children":[{"type":"text","value":"初级题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-la-3961","label":"solution-la-3961","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-la-3961","label":"code-la-3961","referenceType":"full","children":[{"type":"text","value":"Code"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-la-3961_2","label":"code-la-3961_2","referenceType":"full","children":[{"type":"text","value":"Code2"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-poj-2828","label":"problem-poj-2828","referenceType":"full","children":[{"type":"text","value":"POJ/2828"}]}]},{"type":"tableCell","children":[{"type":"text","value":"基础题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-poj-2828","label":"solution-poj-2828","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-poj-2828","label":"code-poj-2828","referenceType":"full","children":[{"type":"text","value":"Code"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-poj-2828_2","label":"code-poj-2828_2","referenceType":"full","children":[{"type":"text","value":"Code2"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-uva-11922","label":"problem-uva-11922","referenceType":"full","children":[{"type":"text","value":"UVa/11922"}]}]},{"type":"tableCell","children":[{"type":"text","value":"基础题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-uva-11922","label":"solution-uva-11922","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-uva-11922","label":"code-uva-11922","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]},{"type":"tableRow","children":[{"type":"tableCell","children":[{"type":"linkReference","identifier":"problem-uva-11996","label":"problem-uva-11996","referenceType":"full","children":[{"type":"text","value":"UVa/11996"}]}]},{"type":"tableCell","children":[{"type":"text","value":"初级题"}]},{"type":"tableCell","children":[{"type":"linkReference","identifier":"solution-uva-11996","label":"solution-uva-11996","referenceType":"full","children":[{"type":"text","value":"Solution"}]},{"type":"text","value":", "},{"type":"linkReference","identifier":"code-uva-11996","label":"code-uva-11996","referenceType":"full","children":[{"type":"text","value":"Code"}]}]}]}]}]},"toc":{"children":[{"depth":2,"identifier":"heading-题目","contents":[{"type":"text","value":"题目"}],"children":[{"depth":3,"identifier":"heading-hihocoder-1329","contents":[{"type":"text","value":"hihoCoder/1329"}],"children":[]},{"depth":3,"identifier":"heading-hihocoder-1333","contents":[{"type":"text","value":"hihoCoder/1333"}],"children":[]},{"depth":3,"identifier":"heading-hysbz-1269","contents":[{"type":"text","value":"HYSBZ/1269"}],"children":[]},{"depth":3,"identifier":"heading-hysbz-1500","contents":[{"type":"text","value":"HYSBZ/1500"}],"children":[]},{"depth":3,"identifier":"heading-hysbz-1503","contents":[{"type":"text","value":"HYSBZ/1503"}],"children":[]},{"depth":3,"identifier":"heading-la-3961","contents":[{"type":"text","value":"LA/3961"}],"children":[]},{"depth":3,"identifier":"heading-poj-2828","contents":[{"type":"text","value":"POJ/2828"}],"children":[]},{"depth":3,"identifier":"heading-uva-11922","contents":[{"type":"text","value":"UVA/11922"}],"children":[]},{"depth":3,"identifier":"heading-uva-11996","contents":[{"type":"text","value":"UVA/11996"}],"children":[]}]},{"depth":2,"identifier":"heading-summary","contents":[{"type":"text","value":"Summary"}],"children":[]}]},"ecmaImports":[],"definitionMap":{"problem-hiho-coder-1329":{"type":"definition","identifier":"problem-hiho-coder-1329","label":"problem-hiho-coder-1329","url":"http://hihocoder.com/problemset/problem/1329"},"problem-hiho-coder-1333":{"type":"definition","identifier":"problem-hiho-coder-1333","label":"problem-hiho-coder-1333","url":"http://hihocoder.com/problemset/problem/1333"},"problem-hysbz-1269":{"type":"definition","identifier":"problem-hysbz-1269","label":"problem-hysbz-1269","url":"http://www.lydsy.com/JudgeOnline/problem.php?id=1269"},"problem-hysbz-1500":{"type":"definition","identifier":"problem-hysbz-1500","label":"problem-hysbz-1500","url":"http://www.lydsy.com/JudgeOnline/problem.php?id=1500"},"problem-hysbz-1503":{"type":"definition","identifier":"problem-hysbz-1503","label":"problem-hysbz-1503","url":"http://www.lydsy.com/JudgeOnline/problem.php?id=1503"},"problem-la-3961":{"type":"definition","identifier":"problem-la-3961","label":"problem-la-3961","url":"https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1962"},"problem-poj-2828":{"type":"definition","identifier":"problem-poj-2828","label":"problem-poj-2828","url":"http://poj.org/problem?id=2828"},"problem-uva-11922":{"type":"definition","identifier":"problem-uva-11922","label":"problem-uva-11922","url":"https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3073"},"problem-uva-11996":{"type":"definition","identifier":"problem-uva-11996","label":"problem-uva-11996","url":"https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3147"},"solution-hiho-coder-1329":{"type":"definition","identifier":"solution-hiho-coder-1329","label":"solution-hiho-coder-1329","url":"#heading-hihocoder-1329"},"solution-hiho-coder-1333":{"type":"definition","identifier":"solution-hiho-coder-1333","label":"solution-hiho-coder-1333","url":"#heading-hihocoder-1333"},"solution-hysbz-1269":{"type":"definition","identifier":"solution-hysbz-1269","label":"solution-hysbz-1269","url":"#heading-hysbz-1269"},"solution-hysbz-1500":{"type":"definition","identifier":"solution-hysbz-1500","label":"solution-hysbz-1500","url":"#heading-hysbz-1500"},"solution-hysbz-1503":{"type":"definition","identifier":"solution-hysbz-1503","label":"solution-hysbz-1503","url":"#heading-hysbz-1503"},"solution-la-3961":{"type":"definition","identifier":"solution-la-3961","label":"solution-la-3961","url":"#heading-la-3961"},"solution-poj-2828":{"type":"definition","identifier":"solution-poj-2828","label":"solution-poj-2828","url":"#heading-poj-2828"},"solution-uva-11922":{"type":"definition","identifier":"solution-uva-11922","label":"solution-uva-11922","url":"#heading-uva-11922"},"solution-uva-11996":{"type":"definition","identifier":"solution-uva-11996","label":"solution-uva-11996","url":"#heading-uva-11996"},"code-hiho-coder-1329":{"type":"definition","identifier":"code-hiho-coder-1329","label":"code-hiho-coder-1329","url":"/asset/post/file/a82804fc-b28a-5a3c-8701-155732491991.cpp"},"code-hiho-coder-1333":{"type":"definition","identifier":"code-hiho-coder-1333","label":"code-hiho-coder-1333","url":"/asset/post/file/aee0f32a-3b13-5d0d-8dac-7340b658cb0f.cpp"},"code-hysbz-1269":{"type":"definition","identifier":"code-hysbz-1269","label":"code-hysbz-1269","url":"/asset/post/file/e1699ea3-8484-5953-b860-7a1fbfe7e673.cpp"},"code-hysbz-1500":{"type":"definition","identifier":"code-hysbz-1500","label":"code-hysbz-1500","url":"/asset/post/file/a6a4ec99-f407-5665-ad2e-b5878070d483.cpp"},"code-hysbz-1503":{"type":"definition","identifier":"code-hysbz-1503","label":"code-hysbz-1503","url":"/asset/post/file/4d204146-2011-5981-82c1-4e3fbf27f5ff.cpp"},"code-la-3961":{"type":"definition","identifier":"code-la-3961","label":"code-la-3961","url":"/asset/post/file/6169a4fa-5519-5a2a-a5c2-3638880a0887.cpp"},"code-la-3961_2":{"type":"definition","identifier":"code-la-3961_2","label":"code-la-3961_2","url":"/asset/post/file/2773aded-29f6-5fbb-995b-335de81d0238.cpp"},"code-poj-2828":{"type":"definition","identifier":"code-poj-2828","label":"code-poj-2828","url":"/asset/post/file/d15c65c3-d334-54b9-9309-d53e131fb558.cpp"},"code-poj-2828_2":{"type":"definition","identifier":"code-poj-2828_2","label":"code-poj-2828_2","url":"/asset/post/file/85ba90a9-fb90-5e33-af51-1caef80fa231.cpp"},"code-uva-11922":{"type":"definition","identifier":"code-uva-11922","label":"code-uva-11922","url":"/asset/post/file/67cabe1e-a104-5a48-8b79-f3afa7cc1457.cpp"},"code-uva-11996":{"type":"definition","identifier":"code-uva-11996","label":"code-uva-11996","url":"/asset/post/file/0cd15975-349a-5d3c-bc9d-220842506696.cpp"}},"footnoteDefinitionMap":{},"images":[],"paginationUrl":"/posts/5","prev":{"title":"CCF 2015-09 最佳文章 解题报告","slug":"/post/acm/oj/ccf/2015/09/E"},"next":{"title":"二分图","slug":"/post/algorithm/graph/bipartite-graph"},"aplayerOptions":null}}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"伸展树专题 | guanghechen"}],["$","meta","3",{"name":"description","content":"伸展树专题"}],["$","meta","4",{"name":"application-name","content":"guanghechen"}],["$","link","5",{"rel":"author","href":"https://github.com/guanghechen"}],["$","meta","6",{"name":"author","content":"光和尘"}],["$","link","7",{"rel":"icon","href":"/favicon.png"}],["$","meta","8",{"name":"next-size-adjust"}]]
+1:null

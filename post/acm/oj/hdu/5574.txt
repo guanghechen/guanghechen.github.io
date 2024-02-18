@@ -1,0 +1,265 @@
+3:I[5613,[],""]
+5:I[31778,[],""]
+7:I[79286,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],"SiteProvider"]
+8:I[54110,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],""]
+9:I[74117,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","800","static/chunks/800-4848173b49d8d689.js","185","static/chunks/app/layout-fa17488f223d6ca7.js"],"MaterialThemeProvider"]
+a:I[55153,["74","static/chunks/74-31f764c22632bceb.js","800","static/chunks/800-4848173b49d8d689.js","160","static/chunks/app/not-found-7a4f60c8a23c275c.js"],"NotFoundView"]
+4:["slug","acm/oj/hdu/5574","c"]
+0:["QrHnf4rdYBDkyXQkdleFO",[[["",{"children":["(post)",{"children":["post",{"children":[["slug","acm/oj/hdu/5574","c"],{"children":["__PAGE__?{\"slug\":[\"acm\",\"oj\",\"hdu\",\"5574\"]}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(post)",{"children":["post",{"children":[["slug","acm/oj/hdu/5574","c"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children","post","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,"$L6",null]]},[null,["$","html",null,{"lang":"en","className":"__className_324942","children":[["$","head",null,{"children":[["$","meta",null,{"charSet":"utf8"}],["$","meta","viewport",{"name":"viewport","content":"initial-scale=1.0, width=device-width"}],["$","meta",null,{"name":"application-name","content":"guanghechen"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"光和尘"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta",null,{"name":"description","content":"Guanghechen's personal site"}],["$","meta",null,{"name":"format-detection","content":"telephone=no"}],["$","meta",null,{"name":"mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"msapplication-config","content":"/icons/browserconfig.xml"}],["$","meta",null,{"name":"msapplication-TileColor","content":"#2B5797"}],["$","meta",null,{"name":"msapplication-tap-highlight","content":"no"}],["$","meta",null,{"name":"theme-color","content":"#a2466c"}],["$","meta",null,{"property":"og:type","content":"website"}],["$","meta",null,{"property":"og:title","content":"光和尘"}],["$","meta",null,{"property":"og:description","content":"光和尘的个人站点"}],["$","meta",null,{"property":"og:site_name","content":"guanghechen"}],["$","meta",null,{"property":"og:url","content":"https://me.guanghechen.com"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.png"}]]}],["$","body",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$La",null,{}],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2159a4b672631e08.css","precedence":"next","crossOrigin":""}]]}]}]}]}]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f2ccec9f31141b1c.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+c:I[56057,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","63","static/chunks/app/(essay)/layout-5f49ece7d1bf5812.js"],"YozoraThemeProvider"]
+d:I[20593,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","63","static/chunks/app/(essay)/layout-5f49ece7d1bf5812.js"],"PostLayoutView"]
+e:I[59627,["74","static/chunks/74-31f764c22632bceb.js","32","static/chunks/32-c49bb5d7213019d7.js","4","static/chunks/4-1f47c029a7fba46f.js","810","static/chunks/810-8ebda3a4770496e8.js","659","static/chunks/659-7f246e0fb997ad2e.js","714","static/chunks/714-13c64a7806ea4ae0.js","595","static/chunks/595-60215c9a9c19277d.js","551","static/chunks/551-68df0022cc950ef8.js","800","static/chunks/800-4848173b49d8d689.js","448","static/chunks/448-62c186fb5283557d.js","918","static/chunks/app/(post)/post/%5B...slug%5D/page-80cd6d5787edd594.js"],"PostDetailPageView"]
+6:["$","$Lc",null,{"children":["$","$Ld",null,{"data":{"postItems":[{"title":"Javascript 踩坑记——继承和原型链","slug":"/post/web/javascript/inherit","tags":["studynote","javascript","ecmascript"],"createdAt":"Sep 05, 2021"},{"title":"防抖和节流","slug":"/post/algorithm/debounce-and-throttle","tags":["coding","debounce","throttle"],"createdAt":"Sep 03, 2021"},{"title":"XSS 与 CSRF 的攻防","slug":"/post/web/security/xss-csrf","tags":["web","web security","csrf"],"createdAt":"Aug 19, 2021"},{"title":"自然对数底数 e","slug":"/post/math/calculus/自然对数底数e","tags":["math","函数","极限","自然对数"],"createdAt":"Aug 07, 2021"},{"title":"当你想来一把数独","slug":"/post/game/sudoku","tags":["game","sudoku"],"createdAt":"Aug 01, 2021"},{"title":"精确覆盖问题和 DLX 算法","slug":"/post/algorithm/dlx","tags":["算法","精确覆盖","DLX 算法"],"createdAt":"Jul 24, 2021"},{"title":"洗牌问题和 knuth-shuffle 算法","slug":"/post/algorithm/shuffle","tags":["shuffle","knuth-shuffle","约瑟夫环"],"createdAt":"Jul 22, 2021"},{"title":"统计区间内的线段","slug":"/post/quiz/scanning-line/segments","tags":["quiz","扫描线","前缀和","树状数组","线段树"],"createdAt":"Jul 21, 2021"},{"title":"约瑟夫环问题","slug":"/post/quiz/classical/Josephus-ring","tags":["quiz","经典问题","约瑟夫环"],"createdAt":"Jul 16, 2021"},{"title":"剑指offer 解题报告","slug":"/post/acm/oj/nowcoder/jz-offer","tags":["专题训练","解题报告"],"createdAt":"Jul 15, 2021"},{"title":"不修改数组找出重复的数字","slug":"/post/quiz/partition/find-duplicate-number","tags":["quiz","分治","追击"],"createdAt":"Jun 29, 2021"},{"title":"背包九讲","slug":"/post/algorithm/knapsack","tags":["acm","算法","动态规划","背包问题"],"createdAt":"Jun 27, 2021"},{"title":"React Reconciliation","slug":"/post/web/react/reconciliation","tags":["react","react reconciliation"],"createdAt":"Jun 26, 2021"},{"title":"扔鸡蛋问题","slug":"/post/quiz/dp/egg-drop","tags":["quiz","动态规划"],"createdAt":"Jun 20, 2021"},{"title":"端口管理","slug":"/post/network/端口管理","tags":["network","port","ssh","netstat"],"createdAt":"Jun 20, 2021"},{"title":"最长公共子序列（LCS）","slug":"/post/algorithm/lcs","tags":["最长公共子序列","LCS"],"createdAt":"Jun 02, 2021"},{"title":"最长上升子序列（LIS）","slug":"/post/algorithm/lis","tags":["最长上升子序列","LIS"],"createdAt":"Jun 02, 2021"},{"title":"Dijkstra 算法","slug":"/post/algorithm/graph/shortest-path/dijkstra","tags":["算法","最短路","单源最短路","dijkstra"],"createdAt":"May 29, 2021"},{"title":"函数的极限","slug":"/post/math/calculus/函数的极限","tags":["math","函数","极限"],"createdAt":"May 09, 2021"},{"title":"ECMA 2020 新特性","slug":"/post/web/javascript/2020","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"ECMA 2021 新特性","slug":"/post/web/javascript/2021","tags":["javascript","ecmascript"],"createdAt":"Apr 05, 2021"},{"title":"在 excel 中启用正则表达式","slug":"/post/tool/excel/regex","tags":["excel","tools"],"createdAt":"Mar 29, 2021"},{"title":"CSS 选择器","slug":"/post/web/css/selector","tags":["web","frontend","css"],"createdAt":"Nov 02, 2020"},{"title":"Custom React Hooks","slug":"/post/web/react/hooks/custom","tags":["react","react hooks"],"createdAt":"Oct 29, 2020"},{"title":"组合游戏基础之 SG 函数和 SG 定理","slug":"/post/math/combinatorial/SG","tags":["组合数学","组合游戏","SG 定理"],"createdAt":"Sep 04, 2016"},{"title":"网络流 24 题","slug":"/post/algorithm/graph/network-flow/24-problems","tags":["acm","算法","图论","网络流","二分图","解题报告","专题训练"],"createdAt":"Jul 30, 2016"},{"title":"网络流基础之最大权闭合图","slug":"/post/algorithm/graph/network-flow/最大权闭合图","tags":["算法","图论","网络流","最大权闭合图"],"createdAt":"Jul 24, 2016"},{"title":"2016 多校第 2 场","slug":"/post/acm/contest/multi-university-training/2016/2","tags":["acm","训练赛","数据结构","解题报告"],"createdAt":"Jul 22, 2016"},{"title":"二分图","slug":"/post/algorithm/graph/bipartite-graph","tags":["算法","图论","二分图","学习笔记"],"createdAt":"Jul 17, 2016"},{"title":"伸展树专题","slug":"/post/data-structure/bbst/splay","tags":["acm","Splay","解题报告","专题训练"],"createdAt":"Jul 03, 2016"},{"title":"CCF 2015-09 最佳文章 解题报告","slug":"/post/acm/oj/ccf/2015/09/E","tags":["acm","Aho-Corasick 自动机","矩阵快速幂","动态规划","解题报告"],"createdAt":"Jun 26, 2016"},{"title":"编译原理-语法制导翻译实现计算器","slug":"/post/fundamentals-of-compiling/exercise","tags":["编译原理","语法制导翻译","计算机"],"createdAt":"Jun 23, 2016"},{"title":"编译原理-语法分析","slug":"/post/fundamentals-of-compiling/grammar","tags":["编译原理","语法分析","计算机"],"createdAt":"Jun 18, 2016"},{"title":"百度之星 2016 解题报告","slug":"/post/acm/contest/baiduzhixing/2016","tags":["acm","递推","状态压缩","动态规划","字典树","解题报告"],"createdAt":"Jun 03, 2016"},{"title":"数论基础之原根","slug":"/post/math/number-theory/原根","tags":["math","数论","原根"],"createdAt":"May 16, 2016"},{"title":"数论基础之欧拉函数","slug":"/post/math/number-theory/欧拉函数","tags":["math","数论","既约剩余系","欧拉函数"],"createdAt":"May 10, 2016"},{"title":"数论基础之筛法","slug":"/post/math/number-theory/sieve","tags":["math","数论","素数","欧拉函数","线性筛"],"createdAt":"May 06, 2016"},{"title":"数论基础之模方程初步","slug":"/post/math/number-theory/模方程/basic","tags":["math","数论","扩展欧几里得算法","中国剩余定理","Baby Step Gaint Step"],"createdAt":"May 04, 2016"},{"title":"HDU-5576 Expection of String 解题报告（原 2015-上海区域赛-E)","slug":"/post/acm/oj/hdu/5576","tags":["acm","动态规划","解题报告"],"createdAt":"Apr 24, 2016"},{"title":"树链剖分","slug":"/post/algorithm/tree/tcs","tags":["acm","算法","树链剖分"],"createdAt":"Apr 23, 2016"},{"title":"51nod-1462 数据结构 -- 解题报告","slug":"/post/acm/oj/51nod/1462","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 23, 2016"},{"title":"小球放盒模型","slug":"/post/math/combinatorial/小球放盒模型","tags":["math","组合数学"],"createdAt":"Apr 22, 2016"},{"title":"最长回文子串 Manacher 算法","slug":"/post/algorithm/string/manacher","tags":["算法","字符串","回文串","manacher"],"createdAt":"Apr 18, 2016"},{"title":"POJ-1324 Holedox Moving 解题报告","slug":"/post/acm/oj/poj/1324","tags":["acm","bfs","图论","状态压缩","解题报告"],"createdAt":"Apr 13, 2016"},{"title":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）","slug":"/post/acm/oj/hdu/5574","tags":["acm","数据结构","树链剖分","线段树","解题报告"],"createdAt":"Apr 12, 2016"},{"title":"快速傅里叶变换和雷德算法","slug":"/post/math/number-theory/fft","tags":["acm","大数乘法","fft","快速傅里叶变换"],"createdAt":"Apr 10, 2016"},{"title":"HDU-5306 Gorgeous Sequence 解题报告","slug":"/post/acm/oj/hdu/5306","tags":["acm","数据结构","线段树","解题报告"],"createdAt":"Apr 09, 2016"}]},"storageKey":"@kyokuya/react-layout-post/#page","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(post)","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}]}]
+f:["acm","数据结构","树链剖分","线段树","解题报告"]
+10:T13d0,#include <bits/stdc++.h>
+using namespace std;
+
+#define lc (o << 1)
+#define rc (o << 1 | 1)
+#define lson lc, lft, mid
+#define rson rc, mid + 1, rht
+#define MID(L, R) ((L) + (R) >> 1)
+
+const int MAXN = 1e5 + 10;
+const int root = 1;
+
+int N;
+
+int from[MAXN], nxt[MAXN << 1], to[MAXN << 1], edge_siz;
+void addEdge(int u, int v) {
+  to[++edge_siz] = u;
+  nxt[edge_siz] = from[v];
+  from[v] = edge_siz;
+}
+
+int father[MAXN], son[MAXN], dep[MAXN], siz[MAXN];
+void dfs(int o, int f, int d) {
+  father[o] = f;
+  son[o] = 0;
+  dep[o] = d;
+  siz[o] = 1;
+
+  for (int u = from[o]; u; u = nxt[u]) {
+    int v = to[u];
+    if (v == f) continue;
+
+    dfs(v, o, d + 1);
+    siz[o] += siz[v];
+    if (siz[son[o]] < siz[v]) son[o] = v;
+  }
+}
+
+int top[MAXN], st[MAXN], ed[MAXN], id[MAXN], dfs_clock;
+void dfs(int o, int t) {
+  st[o] = ++dfs_clock;
+  id[dfs_clock] = o;
+  top[o] = t;
+
+  if (son[o]) {
+    dfs(son[o], t);
+    for (int u = from[o]; u; u = nxt[u]) {
+      int v = to[u];
+      if (v != father[o] and v != son[o]) dfs(v, v);
+    }
+  }
+
+  ed[o] = dfs_clock;
+}
+
+int lca(int u, int v) {
+  while (top[u] != top[v]) {
+    if (dep[top[u]] < dep[top[v]]) swap(u, v);
+    u = father[top[u]];
+  }
+  return dep[u] < dep[v] ? u : v;
+}
+
+pair<int, int> T[MAXN << 2];
+int color[MAXN];
+
+void pushdown(int o) {
+  T[lc].first += T[o].first;
+  T[rc].first += T[o].first;
+  T[o].first = 0;
+}
+
+void build(int o, int lft, int rht) {
+  T[o].first = 0;
+  if (lft == rht) {
+    T[o].second = color[id[lft]];
+  } else {
+    int mid = MID(lft, rht);
+    build(lson);
+    build(rson);
+
+    T[o].second = 1;
+  }
+}
+
+void update(int o, int lft, int rht, int L, int R, int V) {
+  if (L <= lft and rht <= R) {
+    T[o].first += V;
+  } else {
+    int mid = MID(lft, rht);
+    if (L <= mid) update(lson, L, R, V);
+    if (R > mid) update(rson, L, R, V);
+  }
+}
+
+int query(int o, int lft, int rht, int P) {
+  if (lft == rht) return T[o].first;
+  if (T[o].first) pushdown(o);
+
+  int mid = MID(lft, rht);
+  if (P <= mid) return query(lson, P);
+  return query(rson, P);
+}
+
+void updatePath(int u, int v, int w) {
+  while (top[u] != top[v]) {
+    if (dep[top[u]] < dep[top[v]]) swap(u, v);
+    update(1, 1, N, st[top[u]], st[u], w);
+    u = father[top[u]];
+  }
+  if (dep[u] > dep[v]) swap(u, v);
+  update(1, 1, N, st[u], st[v], w);
+}
+
+set<int> s[MAXN];
+set<int>::iterator it;
+
+int lowerColor(int o, int lft, int rht, int L, int R) {
+  if (!T[o].second) return 0;
+  if (lft == rht) return T[o].second;
+
+  int mid = MID(lft, rht);
+  int rcolor = 0;
+  if (R > mid) rcolor = lowerColor(rson, L, R);
+  return (!rcolor and L <= mid) ? lowerColor(lson, L, R) : rcolor;
+}
+
+int getColor(int x) {
+  while (top[x] != top[root]) {
+    int ret = lowerColor(1, 1, N, st[top[x]], st[x]);
+    if (ret) return ret;
+    x = father[top[x]];
+  }
+  return lowerColor(1, 1, N, st[root], st[x]);
+}
+
+void maintain(int x, int c, int op) {
+  if (~op) s[c].insert(st[x]);
+  it = upper_bound(s[c].begin(), s[c].end(), st[x]);
+  int pr = 0, su = 0;
+
+  if (it != s[c].end()) {
+    su = lca(x, id[*it]);
+  }
+  --it;
+  if (it != s[c].begin()) {
+    --it;
+    pr = lca(x, id[*it]);
+  }
+
+  if (!pr and !su)
+    updatePath(1, x, op);
+  else {
+    if (st[pr] < st[su]) pr = su;
+
+    updatePath(pr, x, op);
+    updatePath(pr, pr, -op);
+  }
+
+  if (op == -1) s[c].erase(st[x]);
+}
+
+void remove(int o, int lft, int rht, int L, int R) {
+  if (!T[o].second) return;
+  if (lft == rht) {
+    maintain(id[lft], T[o].second, -1);
+    T[o].second = 0;
+  } else {
+    int mid = MID(lft, rht);
+    if (L <= mid) remove(lson, L, R);
+    if (R > mid) remove(rson, L, R);
+
+    T[o].second = T[lc].second or T[rc].second;
+  }
+}
+
+void insert(int o, int lft, int rht, int P, int C) {
+  if (lft == rht) {
+    maintain(id[lft], C, 1);
+    T[o].second = C;
+  } else {
+    int mid = MID(lft, rht);
+    if (P <= mid)
+      insert(lson, P, C);
+    else
+      insert(rson, P, C);
+
+    T[o].second = 1;
+  }
+}
+
+void init() {
+  memset(from, 0, sizeof from);
+  edge_siz = 0;
+
+  for (int i = 1; i <= N; ++i) s[i].clear();
+  dfs_clock = 0;
+}
+
+void work() {
+  int T_T, Q, u, v, w, cmd;
+
+  scanf("%d", &T_T);
+  for (int kase = 1; kase <= T_T; ++kase) {
+    printf("Case #%d:\n", kase);
+
+    scanf("%d", &N);
+    init();
+    for (int i = 1; i < N; ++i) {
+      scanf("%d%d", &u, &v);
+      addEdge(u, v);
+      addEdge(v, u);
+    }
+    for (int i = 1; i <= N; ++i) scanf("%d", color + i);
+
+    dfs(root, -1, root);
+    dfs(root, 1);
+    build(1, 1, N);
+
+    for (int i = 1; i <= N; ++i) maintain(i, color[i], 1);
+
+    scanf("%d", &Q);
+    while (Q--) {
+      scanf("%d", &cmd);
+      switch (cmd) {
+      case 0:
+        scanf("%d%d", &u, &v);
+        remove(1, 1, N, st[u], ed[u]);
+        insert(1, 1, N, st[u], v);
+        break;
+      case 1:
+        scanf("%d", &u);
+        int flag = 0;
+        int c = getColor(u);
+        if (c) {
+          it = lower_bound(s[c].begin(), s[c].end(), st[u]);
+          if (it == s[c].end() || *it > ed[u]) flag = 1;
+        }
+        printf("%d\n", query(1, 1, N, st[u]) + flag);
+        break;
+      }
+    }
+  }
+}
+
+int main() {
+  work();
+  return 0;
+}
+2:["$","$Le",null,{"data":{"title":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）","titleAst":{"type":"paragraph","children":[{"type":"text","value":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）"}]},"slug":"/post/acm/oj/hdu/5574","createdAt":"Apr 12, 2016","updatedAt":"Jun 04, 2023","timeToRead":"06min 59s","tags":"$f","categories":[],"ast":{"type":"root","children":[{"type":"heading","depth":2,"children":[{"type":"text","value":"题意简述"}],"identifier":"heading-题意简述"},{"type":"paragraph","children":[{"type":"text","value":"一棵 "},{"type":"inlineMath","value":"N"},{"type":"text","value":" 个节点的树，节点编号 "},{"type":"inlineMath","value":"1 \\sim N"},{"type":"text","value":"，且根节点编号始终为 "},{"type":"inlineMath","value":"1"},{"type":"text","value":"。初始时，节点 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的颜色为 "},{"type":"inlineMath","value":"c_i"},{"type":"text","value":"。执行 "},{"type":"inlineMath","value":"M"},{"type":"text","value":" 次操作，每次操作为下述操作之一："}]},{"type":"list","ordered":false,"marker":45,"spread":false,"children":[{"type":"listItem","children":[{"type":"inlineCode","value":"0 u c"},{"type":"text","value":": 将以 "},{"type":"inlineMath","value":"u"},{"type":"text","value":" 为根节点的子树中所有的节点颜色染成 "},{"type":"inlineMath","value":"c"}]},{"type":"listItem","children":[{"type":"inlineCode","value":"1 u"},{"type":"text","value":": 输出以 "},{"type":"inlineMath","value":"u"},{"type":"text","value":" 为根节点的子树中颜色种数"}]}]},{"type":"paragraph","children":[{"type":"text","value":"数据范围： "},{"type":"inlineMath","value":"1\\leqslant T\\leqslant 100"},{"type":"text","value":"，"},{"type":"inlineMath","value":"1\\leqslant N, M\\leqslant 10^5"},{"type":"text","value":", "},{"type":"inlineMath","value":"1\\leqslant c_i\\leqslant N"},{"type":"text","value":"。"}]},{"type":"html","value":"<!-- more -->\n"},{"type":"heading","depth":2,"children":[{"type":"text","value":"题目简析"}],"identifier":"heading-题目简析"},{"type":"paragraph","children":[{"type":"text","value":"不能想到要用线段树进行查询，问题关键在于如何建树。如果直接用 "},{"type":"inlineCode","value":"DFS"},{"type":"text","value":" 序来表示树中的一段区间的话，维护颜色就举步维艰了，因为查询是一棵子树的颜色种数，普通的区间标记根本就无能为力。只好另谋出路。"}]},{"type":"paragraph","children":[{"type":"text","value":"注意到，在树中一个节点的颜色只会对其及祖先节点有贡献。具体地，一个节点的颜色更改可以视作将原来的颜色删除，再添加新的颜色。这样的话，删除颜色就对该节点及其祖先节点贡献 "},{"type":"inlineMath","value":"-1"},{"type":"text","value":"；添加颜色则 "},{"type":"inlineMath","value":"+1"},{"type":"text","value":"。但是，不难发现，这里存在有一个问题，如下图（先仅考虑 "},{"type":"inlineCode","value":"orange"},{"type":"text","value":" 对祖先节点的贡献）:"}]},{"type":"paragraph","children":[{"type":"imageReference","identifier":"1.png","label":"1.png","referenceType":"collapsed","alt":"1.png"}]},{"type":"paragraph","children":[{"type":"text","value":"上图中，"},{"type":"inlineCode","value":"orange"},{"type":"text","value":" 对节点 "},{"type":"inlineCode","value":"orange"},{"type":"text","value":"、"},{"type":"inlineCode","value":"green"},{"type":"text","value":" 及 "},{"type":"inlineCode","value":"red"},{"type":"text","value":" 都有一个贡献值。但是，如果我们要把 "},{"type":"inlineCode","value":"violet"},{"type":"text","value":" 的颜色改成 "},{"type":"inlineCode","value":"orange"},{"type":"text","value":" 的话，则从 "},{"type":"inlineCode","value":"violet"},{"type":"text","value":" -> "},{"type":"inlineCode","value":"red"},{"type":"text","value":" 这一条链中："}]},{"type":"list","ordered":false,"marker":45,"spread":false,"children":[{"type":"listItem","children":[{"type":"strong","children":[{"type":"text","value":"删除颜色"}]},{"type":"text","value":" 所有节点的贡献 -1"}]},{"type":"listItem","children":[{"type":"strong","children":[{"type":"text","value":"添加颜色"}]},{"type":"text","value":" 只对 "},{"type":"inlineCode","value":"violet"},{"type":"text","value":"、"},{"type":"inlineCode","value":"blue"},{"type":"text","value":" 两个节点 +1。因为，节点 "},{"type":"inlineCode","value":"red"},{"type":"text","value":"、"},{"type":"inlineCode","value":"green"},{"type":"text","value":" 已被 "},{"type":"inlineCode","value":"orange"},{"type":"text","value":" 这个颜色更新过了。"}]}]},{"type":"heading","depth":2,"children":[{"type":"text","value":"算法"}],"identifier":"heading-算法"},{"type":"paragraph","children":[{"type":"text","value":"不难想到，当修改一个节点 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的颜色 "},{"type":"inlineMath","value":"c_i"},{"type":"text","value":" 时，我们仅需修改所有与 "},{"type":"inlineMath","value":"c_i"},{"type":"text","value":" 颜色相同的节点与 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的最近公共祖先（所有与 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 构成的最近公共祖先中的距离 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 最近的祖先）\n"},{"type":"inlineMath","value":"g_i"},{"type":"text","value":" 到 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 这条路径的所有的节点（包括 "},{"type":"inlineMath","value":"i"},{"type":"text","value":"，但不包括 "},{"type":"inlineMath","value":"g_i"},{"type":"text","value":" ） 即可。 如下图（仅考虑将 "},{"type":"inlineCode","value":"violet"},{"type":"text","value":" 颜色修改成 "},{"type":"inlineCode","value":"orange"},{"type":"text","value":" 这种情况对祖先节点的贡献）："}]},{"type":"paragraph","children":[{"type":"imageReference","identifier":"2.png","label":"2.png","referenceType":"collapsed","alt":"2.png"}]},{"type":"thematicBreak"},{"type":"paragraph","children":[{"type":"text","value":"如何找到 "},{"type":"inlineMath","value":"g_i"},{"type":"text","value":" 呢？假设节点 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 在这棵树先序遍历序列中位置为 "},{"type":"inlineMath","value":"f_i"},{"type":"text","value":"。记节点 "},{"type":"inlineMath","value":"j"},{"type":"text","value":"\n和 "},{"type":"inlineMath","value":"k"},{"type":"text","value":" 是所有和节点 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的颜色相同的节点中，先序遍历中最靠近 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的两个节点。即满足 "},{"type":"inlineMath","value":"c_j=c_k=c_i"},{"type":"text","value":"，且 "},{"type":"inlineMath","value":"f_{\\cdots} < f_j < f_i < f_k < f_{\\cdots}"},{"type":"text","value":"."}]},{"type":"paragraph","children":[{"type":"text","value":"那么，"},{"type":"inlineMath","value":"f_{g_i} = \\min \\big\\lbrace f_{\\rm LCA(i, j)}, f_{\\rm LCA(i, k)} \\big\\rbrace"},{"type":"text","value":"。其中，"},{"type":"inlineMath","value":"\\rm LCA(i,j)"},{"type":"text","value":" 表示节点 "},{"type":"inlineMath","value":"i"},{"type":"text","value":"、"},{"type":"inlineMath","value":"j"},{"type":"text","value":" 的最近公共祖先。"}]},{"type":"paragraph","children":[{"type":"text","value":"所以，我们只要对每一种颜色开一棵平衡树，键值为节点的 dfs 序。然后 "},{"type":"inlineCode","value":"lower_bound"},{"type":"text","value":", "},{"type":"inlineCode","value":"upper_bound"},{"type":"text","value":" 一下就可以找到 "},{"type":"inlineMath","value":"j"},{"type":"text","value":"，"},{"type":"inlineMath","value":"k"},{"type":"text","value":" 了。"}]},{"type":"paragraph","children":[{"type":"text","value":"至于链上的操作树链剖分就可以了。"}]},{"type":"thematicBreak"},{"type":"paragraph","children":[{"type":"text","value":"所以当我们执行一次 "},{"type":"emphasis","children":[{"type":"text","value":"操作0"}]},{"type":"text","value":" 时，要把 "},{"type":"inlineMath","value":"u"},{"type":"text","value":" 的子树中所有的颜色删掉，然后仅给 "},{"type":"inlineMath","value":"u"},{"type":"text","value":" 添加新的颜色 "},{"type":"inlineMath","value":"c"},{"type":"text","value":"。注意到这样一来，一个节点颜色 "},{"type":"inlineMath","value":"c_i"},{"type":"text","value":" 就是距它最近的有颜色的祖先\n"},{"type":"footnoteReference","label":"1","identifier":"footnote-1"},{"type":"text","value":" 的颜色了。"}]},{"type":"paragraph","children":[{"type":"text","value":"同时，这样一来当前节点颜色并非总是对自己贡献 "},{"type":"inlineMath","value":"+1"},{"type":"text","value":"，因为我们始终只考虑了\n"},{"type":"inlineMath","value":"u"},{"type":"text","value":" -> "},{"type":"inlineMath","value":"g(u)"},{"type":"text","value":" 这条路径上的节点；而 "},{"type":"inlineMath","value":"u"},{"type":"text","value":" 的子孙节点其实是有颜色的，且均为 "},{"type":"inlineMath","value":"c"},{"type":"text","value":"。所以，查询时如果发现当前节点颜色未在子孙节点中出现，答案 "},{"type":"inlineMath","value":"+1"},{"type":"text","value":"。"}]},{"type":"paragraph","children":[{"type":"text","value":"判断当前节点颜色是否在子孙节点中出现有一个小技巧："}]},{"type":"code","lang":"cpp","meta":"linenos","value":"int flag = 0;\nint c = getColor(u);\nif (c) {\n    it = lower_bound(s[c].begin(), s[c].end(), st[u]);\n    if (it == s[c].end() || *it > ed[u]) flag = 1;\n}\n"},{"type":"heading","depth":2,"children":[{"type":"text","value":"复杂度分析"}],"identifier":"heading-复杂度分析"},{"type":"paragraph","children":[{"type":"text","value":"由于删除一个节点的复杂度为 "},{"type":"inlineMath","value":"O(\\log^2 N)"},{"type":"text","value":"（树链剖分有一个 "},{"type":"inlineMath","value":"\\log"},{"type":"text","value":")，我们最多添加 "},{"type":"inlineMath","value":"M"},{"type":"text","value":" 个节点，因此时间复杂度为 "},{"type":"inlineMath","value":"O((M+N)log^2N)"},{"type":"text","value":"。"}]},{"type":"list","ordered":false,"marker":45,"spread":false,"children":[{"type":"listItem","children":[{"type":"text","value":"空间复杂度: "},{"type":"inlineMath","value":"O(N)"}]},{"type":"listItem","children":[{"type":"text","value":"时间复杂度: "},{"type":"inlineMath","value":"O((M+N)log^2 N)"}]}]},{"type":"paragraph","children":[{"type":"text","value":"AC 代码："}]},{"type":"code","lang":"cpp","meta":"title=\"hdu.5574.cpp\" sourcefile=\"./solution.cpp\" linenos collapsed maxlines=20","value":"$10"},{"type":"heading","depth":2,"children":[{"type":"text","value":"小记"}],"identifier":"heading-小记"},{"type":"paragraph","children":[{"type":"text","value":"据说正解是 "},{"type":"inlineMath","value":"O(N\\log N)"},{"type":"text","value":" 的，本蒟蒻表示不会。"},{"type":"break"},{"type":"text","value":"\n多谢小小兰学长的指教。"}]},{"type":"heading","depth":2,"children":[{"type":"text","value":"Related"}],"identifier":"heading-related"},{"type":"list","ordered":false,"marker":42,"spread":false,"children":[{"type":"listItem","children":[{"type":"link","url":"http://acm.hdu.edu.cn/showproblem.php?pid=5574","children":[{"type":"text","value":"题目链接 | HDU-5574"}]}]},{"type":"listItem","children":[{"type":"link","url":"/post/algorithm/tree/tcs","children":[{"type":"text","value":"树链剖分"}]}]},{"type":"listItem","children":[{"type":"link","url":"http://async.icpc-camp.org/d/301-shanghai-2015-c-color/3","children":[{"type":"text","value":"参考连接 1"}]}]},{"type":"listItem","children":[{"type":"link","url":"http://dreadnought.icpc-camp.org/2015%20ACM-ICPC%20Asia%20Regional%20Shanghai","children":[{"type":"text","value":"参考连接 2"}]}]}]}]},"toc":{"children":[{"depth":2,"identifier":"heading-题意简述","contents":[{"type":"text","value":"题意简述"}],"children":[]},{"depth":2,"identifier":"heading-题目简析","contents":[{"type":"text","value":"题目简析"}],"children":[]},{"depth":2,"identifier":"heading-算法","contents":[{"type":"text","value":"算法"}],"children":[]},{"depth":2,"identifier":"heading-复杂度分析","contents":[{"type":"text","value":"复杂度分析"}],"children":[]},{"depth":2,"identifier":"heading-小记","contents":[{"type":"text","value":"小记"}],"children":[]},{"depth":2,"identifier":"heading-related","contents":[{"type":"text","value":"Related"}],"children":[]}]},"ecmaImports":[],"definitionMap":{"1.png":{"type":"definition","identifier":"1.png","label":"1.png","url":"/asset/post/img/662ad15c-6a42-59af-bfb8-4caf8e586c76.png?width=512&height=201"},"2.png":{"type":"definition","identifier":"2.png","label":"2.png","url":"/asset/post/img/e56341a1-0bfa-5465-a167-71feef89a6e4.png?width=522&height=201"}},"footnoteDefinitionMap":{"footnote-1":{"type":"footnoteDefinition","identifier":"footnote-1","label":"1","children":[{"type":"paragraph","children":[{"type":"text","value":"此处 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 也视作 "},{"type":"inlineMath","value":"i"},{"type":"text","value":" 的某个祖先"}]}]}},"images":[{"alt":"1.png","src":"/asset/post/img/662ad15c-6a42-59af-bfb8-4caf8e586c76.png?width=512&height=201"},{"alt":"2.png","src":"/asset/post/img/e56341a1-0bfa-5465-a167-71feef89a6e4.png?width=522&height=201"}],"paginationUrl":"/posts/7","prev":{"title":"快速傅里叶变换和雷德算法","slug":"/post/math/number-theory/fft"},"next":{"title":"POJ-1324 Holedox Moving 解题报告","slug":"/post/acm/oj/poj/1324"},"aplayerOptions":null}}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C） | guanghechen"}],["$","meta","3",{"name":"description","content":"HDU-5574 Colorful Tree 解题报告（原 2015-上海区域赛-C）"}],["$","meta","4",{"name":"application-name","content":"guanghechen"}],["$","link","5",{"rel":"author","href":"https://github.com/guanghechen"}],["$","meta","6",{"name":"author","content":"光和尘"}],["$","link","7",{"rel":"icon","href":"/favicon.png"}],["$","meta","8",{"name":"next-size-adjust"}]]
+1:null
